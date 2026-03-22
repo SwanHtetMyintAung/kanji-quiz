@@ -1,0 +1,3058 @@
+[
+  {
+    "level": "n3",
+    "number": "1",
+    "kanji": "政",
+    "onyomi": "seiセイ",
+    "kunyomi": "matsurigotoまつりごと",
+    "meaning": "politics, government"
+  },
+  {
+    "level": "n3",
+    "number": "2",
+    "kanji": "議",
+    "onyomi": "giギ",
+    "kunyomi": "",
+    "meaning": "deliberation, consultation, debate"
+  },
+  {
+    "level": "n3",
+    "number": "3",
+    "kanji": "民",
+    "onyomi": "minミン",
+    "kunyomi": "tamiたみ",
+    "meaning": "people, nation, subjects"
+  },
+  {
+    "level": "n3",
+    "number": "4",
+    "kanji": "連",
+    "onyomi": "renレン",
+    "kunyomi": "tsura(naru), tsu(reru)つら(なる)、つ(れる)",
+    "meaning": "take along, lead, join, connect"
+  },
+  {
+    "level": "n3",
+    "number": "5",
+    "kanji": "対",
+    "onyomi": "tai, tsuiタイ、 ツイ",
+    "kunyomi": "",
+    "meaning": "opposite, even, equal, versus, anti-, compare"
+  },
+  {
+    "level": "n3",
+    "number": "6",
+    "kanji": "部",
+    "onyomi": "buブ",
+    "kunyomi": "",
+    "meaning": "section, bureau, dept, class, copy, part, portion"
+  },
+  {
+    "level": "n3",
+    "number": "7",
+    "kanji": "合",
+    "onyomi": "gou, ga, kaゴウ、 ガッ、 カッ",
+    "kunyomi": "a(u), aiあ(う)、あい",
+    "meaning": "fit, suit, join, 0.1"
+  },
+  {
+    "level": "n3",
+    "number": "8",
+    "kanji": "市",
+    "onyomi": "shiシ",
+    "kunyomi": "ichiいち",
+    "meaning": "market, city, town"
+  },
+  {
+    "level": "n3",
+    "number": "9",
+    "kanji": "内",
+    "onyomi": "naiナイ",
+    "kunyomi": "uchiうち",
+    "meaning": "inside, within, between, among, house, home"
+  },
+  {
+    "level": "n3",
+    "number": "10",
+    "kanji": "相",
+    "onyomi": "sou, shouソウ、 ショウ",
+    "kunyomi": "aiあい",
+    "meaning": "inter-, mutual, together, each other, minister of state"
+  },
+  {
+    "level": "n3",
+    "number": "11",
+    "kanji": "定",
+    "onyomi": "tei, jouテイ、 ジョウ",
+    "kunyomi": "sada(meru)さだ(める)",
+    "meaning": "determine, fix, establish, decide"
+  },
+  {
+    "level": "n3",
+    "number": "12",
+    "kanji": "回",
+    "onyomi": "kaiカイ",
+    "kunyomi": "mawa(su)まわ(す)",
+    "meaning": "-times, round, revolve, counter"
+  },
+  {
+    "level": "n3",
+    "number": "13",
+    "kanji": "選",
+    "onyomi": "senセン",
+    "kunyomi": "era(bu)えら(ぶ)",
+    "meaning": "elect, select, choose, prefer"
+  },
+  {
+    "level": "n3",
+    "number": "14",
+    "kanji": "米",
+    "onyomi": "bei, mai, meetoruベイ、 マイ、 メエトル",
+    "kunyomi": "komeこめ",
+    "meaning": "rice, USA, meter"
+  },
+  {
+    "level": "n3",
+    "number": "15",
+    "kanji": "実",
+    "onyomi": "jitsuジツ",
+    "kunyomi": "mi, mino(ru)み、みの(る)",
+    "meaning": "reality, truth"
+  },
+  {
+    "level": "n3",
+    "number": "16",
+    "kanji": "関",
+    "onyomi": "kanカン",
+    "kunyomi": "seki, kaka(waru)せき、 かか(わる)",
+    "meaning": "connection, barrier, gateway, involve, concerning"
+  },
+  {
+    "level": "n3",
+    "number": "17",
+    "kanji": "決",
+    "onyomi": "ketsuケツ",
+    "kunyomi": "ki(meru)き(める)",
+    "meaning": "decide, fix, agree upon, appoint"
+  },
+  {
+    "level": "n3",
+    "number": "18",
+    "kanji": "全",
+    "onyomi": "zenゼン",
+    "kunyomi": "matta(ku), sube(te)まった(く)、 すべ(て)",
+    "meaning": "whole, entire, all, complete, fulfill"
+  },
+  {
+    "level": "n3",
+    "number": "19",
+    "kanji": "表",
+    "onyomi": "hyouヒョウ",
+    "kunyomi": "omote, arawa(su)おもて、 あらわ(す)",
+    "meaning": "surface, table, chart, diagram"
+  },
+  {
+    "level": "n3",
+    "number": "20",
+    "kanji": "戦",
+    "onyomi": "senセン",
+    "kunyomi": "ikusa, tataka(u)いくさ、 たたか(う)",
+    "meaning": "war, battle, match"
+  },
+  {
+    "level": "n3",
+    "number": "21",
+    "kanji": "経",
+    "onyomi": "keiケイ",
+    "kunyomi": "he(ru), ta(tsu)へ(る)、 た(つ)",
+    "meaning": "longitude, pass thru, expire, warp"
+  },
+  {
+    "level": "n3",
+    "number": "22",
+    "kanji": "最",
+    "onyomi": "saiサイ",
+    "kunyomi": "motto(mo)もっと(も)",
+    "meaning": "utmost, most, extreme"
+  },
+  {
+    "level": "n3",
+    "number": "23",
+    "kanji": "現",
+    "onyomi": "genゲン",
+    "kunyomi": "arawa(reru), utsu(tsu)あらわ(れる)、 うつ(つ)",
+    "meaning": "present, existing, actual"
+  },
+  {
+    "level": "n3",
+    "number": "24",
+    "kanji": "調",
+    "onyomi": "chouチョウ",
+    "kunyomi": "shira(beru), tono(u)しら(べる)、ととの(う)",
+    "meaning": "tune, tone, meter, prepare, investigate"
+  },
+  {
+    "level": "n3",
+    "number": "25",
+    "kanji": "化",
+    "onyomi": "ka, keカ、 ケ",
+    "kunyomi": "ba(keru), fu(keru)ば(ける)、 ふ(ける)",
+    "meaning": "change, take the form of, influence, enchant, delude, -ization"
+  },
+  {
+    "level": "n3",
+    "number": "26",
+    "kanji": "当",
+    "onyomi": "touトウ",
+    "kunyomi": "a(taru)あ(たる)",
+    "meaning": "hit, right, appropriate"
+  },
+  {
+    "level": "n3",
+    "number": "27",
+    "kanji": "約",
+    "onyomi": "yakuヤク",
+    "kunyomi": "tsuzu(maru)つづ(まる)",
+    "meaning": "promise, approximately, shrink"
+  },
+  {
+    "level": "n3",
+    "number": "28",
+    "kanji": "首",
+    "onyomi": "shuシュ",
+    "kunyomi": "kubiくび",
+    "meaning": "neck"
+  },
+  {
+    "level": "n3",
+    "number": "29",
+    "kanji": "法",
+    "onyomi": "houホウ",
+    "kunyomi": "noriのり",
+    "meaning": "method, law, rule, principle, model, system"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "30",
+    "kanji": "性",
+    "onyomi": "sei, shouセイ、 ショウ",
+    "kunyomi": "",
+    "meaning": "sex, gender, nature"
+  },
+  {
+    "level": "n3",
+    "number": "31",
+    "kanji": "的",
+    "onyomi": "tekiテキ",
+    "kunyomi": "",
+    "meaning": "mark, target, object, adjective ending"
+  },
+  {
+    "level": "n3",
+    "number": "32",
+    "kanji": "要",
+    "onyomi": "youヨウ",
+    "kunyomi": "i(ru), kanameい(る)、 かなめ",
+    "meaning": "need, main point, essence, pivot"
+  },
+  {
+    "level": "n3",
+    "number": "33",
+    "kanji": "制",
+    "onyomi": "seiセイ",
+    "kunyomi": "",
+    "meaning": "system, law, rule"
+  },
+  {
+    "level": "n3",
+    "number": "34",
+    "kanji": "治",
+    "onyomi": "ji, chiジ、チ",
+    "kunyomi": "nasa(meru), nao(ru)おさ(める)、なお(る)",
+    "meaning": "reign, cure, heal"
+  },
+  {
+    "level": "n3",
+    "number": "35",
+    "kanji": "務",
+    "onyomi": "muム",
+    "kunyomi": "tsuto(meru)つと(める)",
+    "meaning": "task, duties"
+  },
+  {
+    "level": "n3",
+    "number": "36",
+    "kanji": "成",
+    "onyomi": "sei, jouセイ、 ジョウ",
+    "kunyomi": "na(ru)な(る)",
+    "meaning": "turn into, become, get, grow, elapse"
+  },
+  {
+    "level": "n3",
+    "number": "37",
+    "kanji": "期",
+    "onyomi": "ki, goキ、 ゴ",
+    "kunyomi": "",
+    "meaning": "period, time, date, term"
+  },
+  {
+    "level": "n3",
+    "number": "38",
+    "kanji": "取",
+    "onyomi": "shuシュ",
+    "kunyomi": "to(ru)と(る)",
+    "meaning": "take, fetch"
+  },
+  {
+    "level": "n3",
+    "number": "39",
+    "kanji": "都",
+    "onyomi": "to, tsuト、ツ",
+    "kunyomi": "miyakoみやこ",
+    "meaning": "metropolis, capital"
+  },
+  {
+    "level": "n3",
+    "number": "40",
+    "kanji": "和",
+    "onyomi": "wa, oワ、オ",
+    "kunyomi": "yawa(ragu), nago(mu)やわ(らぐ)、なご(む)",
+    "meaning": "harmony, Japanese style, peace"
+  },
+  {
+    "level": "n3",
+    "number": "41",
+    "kanji": "機",
+    "onyomi": "kiキ",
+    "kunyomi": "hataはた",
+    "meaning": "machine, airplane, opportunity"
+  },
+  {
+    "level": "n3",
+    "number": "42",
+    "kanji": "平",
+    "onyomi": "hei, byouヘイ、ビョウ",
+    "kunyomi": "tai(ra), hiraたい(ら)、ひら",
+    "meaning": "even, flat, peace"
+  },
+  {
+    "level": "n3",
+    "number": "43",
+    "kanji": "加",
+    "onyomi": "kaカ",
+    "kunyomi": "kuwa(eru)くわ(える)",
+    "meaning": "add, addition, increase, join"
+  },
+  {
+    "level": "n3",
+    "number": "44",
+    "kanji": "受",
+    "onyomi": "juジュ",
+    "kunyomi": "u(keru)う(ける)",
+    "meaning": "accept, undergo, answer (phone), take"
+  },
+  {
+    "level": "n3",
+    "number": "45",
+    "kanji": "続",
+    "onyomi": "zokuゾク",
+    "kunyomi": "tsuzukuつづ(く)",
+    "meaning": "continue, series, sequel"
+  },
+  {
+    "level": "n3",
+    "number": "46",
+    "kanji": "進",
+    "onyomi": "shinシン",
+    "kunyomi": "susu(mu)すす(む)",
+    "meaning": "advance, proceed"
+  },
+  {
+    "level": "n3",
+    "number": "47",
+    "kanji": "数",
+    "onyomi": "suuスウ",
+    "kunyomi": "kazu, kazo(eru)かず、 かぞ(える)",
+    "meaning": "number, strength, fate, law, figures"
+  },
+  {
+    "level": "n3",
+    "number": "48",
+    "kanji": "記",
+    "onyomi": "kiキ",
+    "kunyomi": "shiru(su)しる(す)",
+    "meaning": "scribe, account, narrative"
+  },
+  {
+    "level": "n3",
+    "number": "49",
+    "kanji": "初",
+    "onyomi": "shoショ",
+    "kunyomi": "haji(me), hatsuはじ(め)、はつ",
+    "meaning": "first time, beginning"
+  },
+  {
+    "level": "n3",
+    "number": "50",
+    "kanji": "指",
+    "onyomi": "shiシ",
+    "kunyomi": "yubi, sa(su)ゆび、さ(す)",
+    "meaning": "finger, point to, indicate"
+  },
+  {
+    "level": "n3",
+    "number": "51",
+    "kanji": "権",
+    "onyomi": "kenケン",
+    "kunyomi": "",
+    "meaning": "authority, power, rights"
+  },
+  {
+    "level": "n3",
+    "number": "52",
+    "kanji": "支",
+    "onyomi": "shiシ",
+    "kunyomi": "sasa(eru)ささ(える)",
+    "meaning": "branch, support, sustain"
+  },
+  {
+    "level": "n3",
+    "number": "53",
+    "kanji": "産",
+    "onyomi": "sanサン",
+    "kunyomi": "u(mu), mu(su)う(む)、 む(す)",
+    "meaning": "products, bear, give birth"
+  },
+  {
+    "level": "n3",
+    "number": "54",
+    "kanji": "点",
+    "onyomi": "tenテン",
+    "kunyomi": "tsu(keru)つ(ける)",
+    "meaning": "spot, point, mark"
+  },
+  {
+    "level": "n3",
+    "number": "55",
+    "kanji": "報",
+    "onyomi": "houホウ",
+    "kunyomi": "mukku(iru)むく(いる)",
+    "meaning": "report, news, reward"
+  },
+  {
+    "level": "n3",
+    "number": "56",
+    "kanji": "済",
+    "onyomi": "sai, seiサイ、セイ",
+    "kunyomi": "su(mu)す(む)",
+    "meaning": "settle, relieve, finish"
+  },
+  {
+    "level": "n3",
+    "number": "57",
+    "kanji": "活",
+    "onyomi": "katsuカツ",
+    "kunyomi": "",
+    "meaning": "living"
+  },
+  {
+    "level": "n3",
+    "number": "58",
+    "kanji": "原",
+    "onyomi": "genゲン",
+    "kunyomi": "haraはら",
+    "meaning": "original, primitive, field"
+  },
+  {
+    "level": "n3",
+    "number": "59",
+    "kanji": "共",
+    "onyomi": "kyouキョウ",
+    "kunyomi": "tomoとも",
+    "meaning": "together, both, neither"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "60",
+    "kanji": "得",
+    "onyomi": "tokuトク",
+    "kunyomi": "e(ru)え(る)",
+    "meaning": "gain, get, find, earn, acquire, can, may, able to, profit"
+  },
+  {
+    "level": "n3",
+    "number": "61",
+    "kanji": "解",
+    "onyomi": "kai, geカイ、ゲ",
+    "kunyomi": "to(ku), hodo(ku)と(く)、ほど(く)",
+    "meaning": "unravel, explanation"
+  },
+  {
+    "level": "n3",
+    "number": "62",
+    "kanji": "交",
+    "onyomi": "kouコウ",
+    "kunyomi": "maji(waru), ma(zeru), ka(wasu)まじ(わる)、 ま(ぜる)、 か(わす)",
+    "meaning": "mingle, mixing, association, coming & going"
+  },
+  {
+    "level": "n3",
+    "number": "63",
+    "kanji": "資",
+    "onyomi": "shiシ",
+    "kunyomi": "",
+    "meaning": "assets, resources, capital, funds, data, be conducive to"
+  },
+  {
+    "level": "n3",
+    "number": "64",
+    "kanji": "予",
+    "onyomi": "yo, shaヨ、 シャ",
+    "kunyomi": "arakaji(me)あらかじ(め)",
+    "meaning": "beforehand, previous, myself, I"
+  },
+  {
+    "level": "n3",
+    "number": "65",
+    "kanji": "向",
+    "onyomi": "kouコウ",
+    "kunyomi": "mu(ku), muka(i)む(く)、むか(い)",
+    "meaning": "facing, beyond"
+  },
+  {
+    "level": "n3",
+    "number": "66",
+    "kanji": "際",
+    "onyomi": "saiサイ",
+    "kunyomi": "kiwaきわ",
+    "meaning": "occasion, time"
+  },
+  {
+    "level": "n3",
+    "number": "67",
+    "kanji": "勝",
+    "onyomi": "shouショウ",
+    "kunyomi": "ka(tsu), masa(ru)か(つ)、 まさ(る)",
+    "meaning": "victory, win"
+  },
+  {
+    "level": "n3",
+    "number": "68",
+    "kanji": "面",
+    "onyomi": "menメン",
+    "kunyomi": "omo, omote, tsuraおも、おもて、つら",
+    "meaning": "mask, face, features, surface"
+  },
+  {
+    "level": "n3",
+    "number": "69",
+    "kanji": "告",
+    "onyomi": "kokuコク",
+    "kunyomi": "tsu(geru)つ(げる)",
+    "meaning": "revelation, inform"
+  },
+  {
+    "level": "n3",
+    "number": "70",
+    "kanji": "反",
+    "onyomi": "hanハン",
+    "kunyomi": "so(ru)そ(る)",
+    "meaning": "anti-"
+  },
+  {
+    "level": "n3",
+    "number": "71",
+    "kanji": "判",
+    "onyomi": "hanハン",
+    "kunyomi": "",
+    "meaning": "judgement, signature"
+  },
+  {
+    "level": "n3",
+    "number": "72",
+    "kanji": "認",
+    "onyomi": "ninニン",
+    "kunyomi": "mito(meru), shitata(meru)みと(める)、したた(める)",
+    "meaning": "acknowledge, witness, recognize"
+  },
+  {
+    "level": "n3",
+    "number": "73",
+    "kanji": "参",
+    "onyomi": "sanサン",
+    "kunyomi": "mai(ru)まい(る)",
+    "meaning": "going, coming, participate"
+  },
+  {
+    "level": "n3",
+    "number": "74",
+    "kanji": "利",
+    "onyomi": "riリ",
+    "kunyomi": "ki(ku)き(く)",
+    "meaning": "profit, advantage, benefit"
+  },
+  {
+    "level": "n3",
+    "number": "75",
+    "kanji": "組",
+    "onyomi": "soソ",
+    "kunyomi": "ku(mu), kumiく(む)、くみ",
+    "meaning": "association, assemble, unite"
+  },
+  {
+    "level": "n3",
+    "number": "76",
+    "kanji": "信",
+    "onyomi": "shinシン",
+    "kunyomi": "",
+    "meaning": "faith, truth, trust"
+  },
+  {
+    "level": "n3",
+    "number": "77",
+    "kanji": "在",
+    "onyomi": "zaiザイ",
+    "kunyomi": "a(ru)あ(る)",
+    "meaning": "exist, outskirts"
+  },
+  {
+    "level": "n3",
+    "number": "78",
+    "kanji": "件",
+    "onyomi": "kenケン",
+    "kunyomi": "kudanくだん",
+    "meaning": "affair, case, matter"
+  },
+  {
+    "level": "n3",
+    "number": "79",
+    "kanji": "側",
+    "onyomi": "sokuソク",
+    "kunyomi": "gawa, sobaがわ、そば",
+    "meaning": "side, lean, oppose"
+  },
+  {
+    "level": "n3",
+    "number": "80",
+    "kanji": "任",
+    "onyomi": "ninニン",
+    "kunyomi": "maka(seru)まか(せる)",
+    "meaning": "responsibility, duty"
+  },
+  {
+    "level": "n3",
+    "number": "81",
+    "kanji": "引",
+    "onyomi": "inイン",
+    "kunyomi": "hi(ku)ひ(く)",
+    "meaning": "pull, tug, jerk"
+  },
+  {
+    "level": "n3",
+    "number": "82",
+    "kanji": "求",
+    "onyomi": "kyuuキュウ",
+    "kunyomi": "moto(meru)もと(める)",
+    "meaning": "request, want, demand"
+  },
+  {
+    "level": "n3",
+    "number": "83",
+    "kanji": "所",
+    "onyomi": "shoショ",
+    "kunyomi": "tokoroところ",
+    "meaning": "place, extent"
+  },
+  {
+    "level": "n3",
+    "number": "84",
+    "kanji": "次",
+    "onyomi": "ji, shiジ、シ",
+    "kunyomi": "tsu(gu), tsugiつ(ぐ)、つぎ",
+    "meaning": "next, order"
+  },
+  {
+    "level": "n3",
+    "number": "85",
+    "kanji": "昨",
+    "onyomi": "sakuサク",
+    "kunyomi": "",
+    "meaning": "yesterday, previous"
+  },
+  {
+    "level": "n3",
+    "number": "86",
+    "kanji": "論",
+    "onyomi": "ronロン",
+    "kunyomi": "agetsura(u)あげつら(う)",
+    "meaning": "argument, discourse"
+  },
+  {
+    "level": "n3",
+    "number": "87",
+    "kanji": "官",
+    "onyomi": "kanカン",
+    "kunyomi": "",
+    "meaning": "bureaucrat, the government, organ"
+  },
+  {
+    "level": "n3",
+    "number": "88",
+    "kanji": "増",
+    "onyomi": "zouゾウ",
+    "kunyomi": "ma(su), fu(eru)ま(す)、 ふ(える)",
+    "meaning": "increase, add"
+  },
+  {
+    "level": "n3",
+    "number": "89",
+    "kanji": "係",
+    "onyomi": "keiケイ",
+    "kunyomi": "kaka(ru), kakariかか(る)、かかり",
+    "meaning": "person in charge, connection"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "90",
+    "kanji": "感",
+    "onyomi": "kanカン",
+    "kunyomi": "",
+    "meaning": "emotion, feeling, sensation"
+  },
+  {
+    "level": "n3",
+    "number": "91",
+    "kanji": "情",
+    "onyomi": "jou, seiジョウ、セイ",
+    "kunyomi": "nasa(ke)なさ(け)",
+    "meaning": "feelings, emotion, passion"
+  },
+  {
+    "level": "n3",
+    "number": "92",
+    "kanji": "投",
+    "onyomi": "touトウ",
+    "kunyomi": "na(geru)な(げる)",
+    "meaning": "throw, discard"
+  },
+  {
+    "level": "n3",
+    "number": "93",
+    "kanji": "示",
+    "onyomi": "ji, shiジ、シ",
+    "kunyomi": "shime(su)しめ(す)",
+    "meaning": "show, indicate, display"
+  },
+  {
+    "level": "n3",
+    "number": "94",
+    "kanji": "変",
+    "onyomi": "henヘン",
+    "kunyomi": "ka(waru)か(わる)",
+    "meaning": "unusual, change, strange"
+  },
+  {
+    "level": "n3",
+    "number": "95",
+    "kanji": "打",
+    "onyomi": "daダ",
+    "kunyomi": "u(tsu), bu(tsu)う(つ)、ぶ(つ)",
+    "meaning": "strike, hit, knock"
+  },
+  {
+    "level": "n3",
+    "number": "96",
+    "kanji": "直",
+    "onyomi": "choku, jikiチョク、 ジキ",
+    "kunyomi": "tada(chini), su(gu)ただ(ちに)、 す(ぐ)",
+    "meaning": "straightaway, honesty, frankness, fix, repair"
+  },
+  {
+    "level": "n3",
+    "number": "97",
+    "kanji": "両",
+    "onyomi": "ryouリョウ",
+    "kunyomi": "",
+    "meaning": "both"
+  },
+  {
+    "level": "n3",
+    "number": "98",
+    "kanji": "式",
+    "onyomi": "shikiシキ",
+    "kunyomi": "",
+    "meaning": "style, ceremony"
+  },
+  {
+    "level": "n3",
+    "number": "99",
+    "kanji": "確",
+    "onyomi": "kakuカク",
+    "kunyomi": "tashi(ka)たし(か)",
+    "meaning": "assurance, firm, confirm"
+  },
+  {
+    "level": "n3",
+    "number": "100",
+    "kanji": "果",
+    "onyomi": "kaカ",
+    "kunyomi": "ha(tasu)は(たす)",
+    "meaning": "fruit, reward, carry out, achieve, complete"
+  },
+  {
+    "level": "n3",
+    "number": "101",
+    "kanji": "容",
+    "onyomi": "youヨウ",
+    "kunyomi": "",
+    "meaning": "contain, form"
+  },
+  {
+    "level": "n3",
+    "number": "102",
+    "kanji": "必",
+    "onyomi": "hitsuヒツ",
+    "kunyomi": "kanara(zu)かなら(ず)",
+    "meaning": "invariably, certain, inevitable"
+  },
+  {
+    "level": "n3",
+    "number": "103",
+    "kanji": "演",
+    "onyomi": "enエン",
+    "kunyomi": "",
+    "meaning": "performance, act, play, render, stage"
+  },
+  {
+    "level": "n3",
+    "number": "104",
+    "kanji": "歳",
+    "onyomi": "sai, seiサイ、セイ",
+    "kunyomi": "",
+    "meaning": "age, year-end"
+  },
+  {
+    "level": "n3",
+    "number": "105",
+    "kanji": "争",
+    "onyomi": "souソウ",
+    "kunyomi": "araso(u)あらそ(う)",
+    "meaning": "contend, dispute, argue"
+  },
+  {
+    "level": "n3",
+    "number": "106",
+    "kanji": "談",
+    "onyomi": "danダン",
+    "kunyomi": "",
+    "meaning": "discuss, talk"
+  },
+  {
+    "level": "n3",
+    "number": "107",
+    "kanji": "能",
+    "onyomi": "nouノウ",
+    "kunyomi": "ata(u)あた(う)",
+    "meaning": "ability, talent, skill, capacity"
+  },
+  {
+    "level": "n3",
+    "number": "108",
+    "kanji": "位",
+    "onyomi": "iイ",
+    "kunyomi": "kurai, guraiくらい、 ぐらい",
+    "meaning": "rank, grade, about"
+  },
+  {
+    "level": "n3",
+    "number": "109",
+    "kanji": "置",
+    "onyomi": "chiチ",
+    "kunyomi": "o(ku)お(く)",
+    "meaning": "placement, put, set, deposit, leave behind"
+  },
+  {
+    "level": "n3",
+    "number": "110",
+    "kanji": "流",
+    "onyomi": "ryuu, ruリュウ、ル",
+    "kunyomi": "naga(reru)なが(れる)",
+    "meaning": "current, flow"
+  },
+  {
+    "level": "n3",
+    "number": "111",
+    "kanji": "格",
+    "onyomi": "kaku, kou, kyakuカク、コウ、キャク",
+    "kunyomi": "",
+    "meaning": "status, rank, capacity"
+  },
+  {
+    "level": "n3",
+    "number": "112",
+    "kanji": "疑",
+    "onyomi": "giギ",
+    "kunyomi": "utaga(u)うたが(う)",
+    "meaning": "doubt, distrust"
+  },
+  {
+    "level": "n3",
+    "number": "113",
+    "kanji": "過",
+    "onyomi": "kaカ",
+    "kunyomi": "su(giru), yogi(ru)す(ぎる)、よぎ(る)",
+    "meaning": "overdo, exceed, go beyond"
+  },
+  {
+    "level": "n3",
+    "number": "114",
+    "kanji": "局",
+    "onyomi": "kyokuキョク",
+    "kunyomi": "",
+    "meaning": "bureau, board, office"
+  },
+  {
+    "level": "n3",
+    "number": "115",
+    "kanji": "放",
+    "onyomi": "houホウ",
+    "kunyomi": "hana(su), hou(ru)はな(す)、ほう(る)",
+    "meaning": "set free, release"
+  },
+  {
+    "level": "n3",
+    "number": "116",
+    "kanji": "常",
+    "onyomi": "jouジョウ",
+    "kunyomi": "tsuneつね",
+    "meaning": "usual, ordinary, normal"
+  },
+  {
+    "level": "n3",
+    "number": "117",
+    "kanji": "状",
+    "onyomi": "jouジョウ",
+    "kunyomi": "",
+    "meaning": "conditions, form, appearance"
+  },
+  {
+    "level": "n3",
+    "number": "118",
+    "kanji": "球",
+    "onyomi": "kyuuキュウ",
+    "kunyomi": "tamaたま",
+    "meaning": "ball, sphere"
+  },
+  {
+    "level": "n3",
+    "number": "119",
+    "kanji": "職",
+    "onyomi": "shokuショク",
+    "kunyomi": "",
+    "meaning": "post, employment, work"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "120",
+    "kanji": "与",
+    "onyomi": "yoヨ",
+    "kunyomi": "ata(eru), azuka(ru)あた(える)、 あずか(る)",
+    "meaning": "give, award"
+  },
+  {
+    "level": "n3",
+    "number": "121",
+    "kanji": "供",
+    "onyomi": "kyou, ku, kuuキョウ、ク、クウ",
+    "kunyomi": "sona(eru), tomoそな(える)、とも",
+    "meaning": "submit, offer, present, accompany"
+  },
+  {
+    "level": "n3",
+    "number": "122",
+    "kanji": "役",
+    "onyomi": "yaku, ekiヤク、エキ",
+    "kunyomi": "",
+    "meaning": "duty, service, role"
+  },
+  {
+    "level": "n3",
+    "number": "123",
+    "kanji": "構",
+    "onyomi": "kouコウ",
+    "kunyomi": "kama(u)かま(う)",
+    "meaning": "posture, build, pretend"
+  },
+  {
+    "level": "n3",
+    "number": "124",
+    "kanji": "割",
+    "onyomi": "katsuカツ",
+    "kunyomi": "wa(ru), wariわ(る)、わり",
+    "meaning": "proportion, divide, cut, separate"
+  },
+  {
+    "level": "n3",
+    "number": "125",
+    "kanji": "身",
+    "onyomi": "shinシン",
+    "kunyomi": "miみ",
+    "meaning": "somebody, person"
+  },
+  {
+    "level": "n3",
+    "number": "126",
+    "kanji": "費",
+    "onyomi": "hiヒ",
+    "kunyomi": "tsui(yasu)つい(やす)",
+    "meaning": "expense, consume"
+  },
+  {
+    "level": "n3",
+    "number": "127",
+    "kanji": "付",
+    "onyomi": "fuフ",
+    "kunyomi": "tsu(keru)つ(ける)",
+    "meaning": "adhere, attach, refer to, append"
+  },
+  {
+    "level": "n3",
+    "number": "128",
+    "kanji": "由",
+    "onyomi": "yu, yuuユ、ユウ",
+    "kunyomi": "yoshi, yo(ru)よし、よ(る)",
+    "meaning": "wherefore, a reason"
+  },
+  {
+    "level": "n3",
+    "number": "129",
+    "kanji": "説",
+    "onyomi": "setsu, zeiセツ、 ゼイ",
+    "kunyomi": "to(ku)と(く)",
+    "meaning": "opinion, theory, explanation"
+  },
+  {
+    "level": "n3",
+    "number": "130",
+    "kanji": "難",
+    "onyomi": "nanナン",
+    "kunyomi": "kata(i), muzuka(shii), niku(i)かた(い)、むずか(しい)、 にく(い)",
+    "meaning": "difficult, trouble, accident"
+  },
+  {
+    "level": "n3",
+    "number": "131",
+    "kanji": "優",
+    "onyomi": "yuu, uユウ、ウ",
+    "kunyomi": "yasa(shii), sugu(reru)やさ(しい)、すぐ(れる)",
+    "meaning": "tenderness, kind, actor"
+  },
+  {
+    "level": "n3",
+    "number": "132",
+    "kanji": "夫",
+    "onyomi": "fu, fuuフ、フウ",
+    "kunyomi": "ottoおっと",
+    "meaning": "husband, man"
+  },
+  {
+    "level": "n3",
+    "number": "133",
+    "kanji": "収",
+    "onyomi": "shuuシュウ",
+    "kunyomi": "osa(meru)おさ(める)",
+    "meaning": "income, obtain, reap, pay, supply, store"
+  },
+  {
+    "level": "n3",
+    "number": "134",
+    "kanji": "断",
+    "onyomi": "danダン",
+    "kunyomi": "ta(tsu), kotowa(ru)た(つ)、 ことわ(る)",
+    "meaning": "severance, decline, refuse, apologize"
+  },
+  {
+    "level": "n3",
+    "number": "135",
+    "kanji": "石",
+    "onyomi": "seki, shaku, kokuセキ、シャク、コク",
+    "kunyomi": "ishiいし",
+    "meaning": "stone"
+  },
+  {
+    "level": "n3",
+    "number": "136",
+    "kanji": "違",
+    "onyomi": "iイ",
+    "kunyomi": "chiga(u), taga(u)ちが(う)、たが(う)",
+    "meaning": "difference, differ"
+  },
+  {
+    "level": "n3",
+    "number": "137",
+    "kanji": "消",
+    "onyomi": "shouショウ",
+    "kunyomi": "ki(eru), ke(su)き(える)、け(す)",
+    "meaning": "extinguish, turn off"
+  },
+  {
+    "level": "n3",
+    "number": "138",
+    "kanji": "神",
+    "onyomi": "shin, jinシン、 ジン",
+    "kunyomi": "kamiかみ",
+    "meaning": "gods, mind, soul"
+  },
+  {
+    "level": "n3",
+    "number": "139",
+    "kanji": "番",
+    "onyomi": "banバン",
+    "kunyomi": "tsugaiつが(い)",
+    "meaning": "turn, number in a series"
+  },
+  {
+    "level": "n3",
+    "number": "140",
+    "kanji": "規",
+    "onyomi": "kiキ",
+    "kunyomi": "",
+    "meaning": "standard, measure"
+  },
+  {
+    "level": "n3",
+    "number": "141",
+    "kanji": "術",
+    "onyomi": "jutsuジュツ",
+    "kunyomi": "subeすべ",
+    "meaning": "art, technique, skill, means, trick"
+  },
+  {
+    "level": "n3",
+    "number": "142",
+    "kanji": "備",
+    "onyomi": "biビ",
+    "kunyomi": "sona(eru)そな(える)",
+    "meaning": "equip, provision, preparation"
+  },
+  {
+    "level": "n3",
+    "number": "143",
+    "kanji": "宅",
+    "onyomi": "takuタク",
+    "kunyomi": "",
+    "meaning": "home, house, residence"
+  },
+  {
+    "level": "n3",
+    "number": "144",
+    "kanji": "害",
+    "onyomi": "gaiガイ",
+    "kunyomi": "",
+    "meaning": "harm, injury"
+  },
+  {
+    "level": "n3",
+    "number": "145",
+    "kanji": "配",
+    "onyomi": "haiハイ",
+    "kunyomi": "kuba(ru)くば(る)",
+    "meaning": "distribute, spouse"
+  },
+  {
+    "level": "n3",
+    "number": "146",
+    "kanji": "警",
+    "onyomi": "keiケイ",
+    "kunyomi": "",
+    "meaning": "admonish, commandment"
+  },
+  {
+    "level": "n3",
+    "number": "147",
+    "kanji": "育",
+    "onyomi": "ikuイク",
+    "kunyomi": "soda(tsu), haguku(mu)そだ(つ)、はぐく(む)",
+    "meaning": "bring up, grow up, raise"
+  },
+  {
+    "level": "n3",
+    "number": "148",
+    "kanji": "席",
+    "onyomi": "sekiセキ",
+    "kunyomi": "mushiroむしろ",
+    "meaning": "seat"
+  },
+  {
+    "level": "n3",
+    "number": "149",
+    "kanji": "訪",
+    "onyomi": "houホウ",
+    "kunyomi": "toozu(reru), tazu(neru)おとず(れる)、たず(ねる)",
+    "meaning": "call on, visit"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "150",
+    "kanji": "乗",
+    "onyomi": "jou, shouジョウ、 ショウ",
+    "kunyomi": "no(ru)の(る)",
+    "meaning": "ride"
+  },
+  {
+    "level": "n3",
+    "number": "151",
+    "kanji": "残",
+    "onyomi": "zanザン",
+    "kunyomi": "noko(ru)のこ(る)",
+    "meaning": "remainder, balance"
+  },
+  {
+    "level": "n3",
+    "number": "152",
+    "kanji": "想",
+    "onyomi": "sou, soソウ、ソ",
+    "kunyomi": "omo(u)おも(う)",
+    "meaning": "concept, think, idea"
+  },
+  {
+    "level": "n3",
+    "number": "153",
+    "kanji": "声",
+    "onyomi": "sei, shouセイ、ショウ",
+    "kunyomi": "koeこえ",
+    "meaning": "voice"
+  },
+  {
+    "level": "n3",
+    "number": "154",
+    "kanji": "助",
+    "onyomi": "joジョ",
+    "kunyomi": "tasu(keru)たす(ける)",
+    "meaning": "help, rescue, assist"
+  },
+  {
+    "level": "n3",
+    "number": "155",
+    "kanji": "労",
+    "onyomi": "rouロウ",
+    "kunyomi": "rou(suru), itawa(ru), negira(u)ろう(する)、いたわ(る)、ねぎら(う)",
+    "meaning": "labor, thank for"
+  },
+  {
+    "level": "n3",
+    "number": "156",
+    "kanji": "例",
+    "onyomi": "reiレイ",
+    "kunyomi": "tato(eba)たと(えば)",
+    "meaning": "example"
+  },
+  {
+    "level": "n3",
+    "number": "157",
+    "kanji": "然",
+    "onyomi": "zen, nenゼン、ネン",
+    "kunyomi": "shika, saしか、さ",
+    "meaning": "sort of thing, if so"
+  },
+  {
+    "level": "n3",
+    "number": "158",
+    "kanji": "限",
+    "onyomi": "genゲン",
+    "kunyomi": "kagi(ru)かぎ(る)",
+    "meaning": "limit, restrict"
+  },
+  {
+    "level": "n3",
+    "number": "159",
+    "kanji": "追",
+    "onyomi": "tsuiツイ",
+    "kunyomi": "o(u)お(う)",
+    "meaning": "chase, drive away"
+  },
+  {
+    "level": "n3",
+    "number": "160",
+    "kanji": "商",
+    "onyomi": "shouショウ",
+    "kunyomi": "akina(u)あきな(う)",
+    "meaning": "deal; selling; merchant"
+  },
+  {
+    "level": "n3",
+    "number": "161",
+    "kanji": "葉",
+    "onyomi": "youヨウ",
+    "kunyomi": "haは",
+    "meaning": "leaf, plane, needle, blade, counter for flat things"
+  },
+  {
+    "level": "n3",
+    "number": "162",
+    "kanji": "伝",
+    "onyomi": "denデン",
+    "kunyomi": "tsuta(waru)つた(わる)",
+    "meaning": "transmit, go along, walk along, follow, report, communicate, legend, tradition"
+  },
+  {
+    "level": "n3",
+    "number": "163",
+    "kanji": "働",
+    "onyomi": "douドウ",
+    "kunyomi": "hatara(ku)はたら(く)",
+    "meaning": "work"
+  },
+  {
+    "level": "n3",
+    "number": "164",
+    "kanji": "形",
+    "onyomi": "kei, gyouケイ、ギョウ",
+    "kunyomi": "kata, katachi, nariかた、かたち、なり",
+    "meaning": "shape, form, style"
+  },
+  {
+    "level": "n3",
+    "number": "165",
+    "kanji": "景",
+    "onyomi": "kei, keケイ、ケ",
+    "kunyomi": "",
+    "meaning": "scenery, view"
+  },
+  {
+    "level": "n3",
+    "number": "166",
+    "kanji": "落",
+    "onyomi": "rakuラク",
+    "kunyomi": "o(chiru)お(ちる)",
+    "meaning": "fall, drop"
+  },
+  {
+    "level": "n3",
+    "number": "167",
+    "kanji": "好",
+    "onyomi": "kouコウ",
+    "kunyomi": "kono(mu), su(ku)この(む)、 す(く)",
+    "meaning": "fond, pleasing, like something"
+  },
+  {
+    "level": "n3",
+    "number": "168",
+    "kanji": "退",
+    "onyomi": "taiタイ",
+    "kunyomi": "shirizo(ku), hi(ku), no(keru), do(ku)しりぞ(く)、 ひ(く)、 の(ける)、 ど(く)",
+    "meaning": "retreat, withdraw, retire, resign, repel, expel, reject"
+  },
+  {
+    "level": "n3",
+    "number": "169",
+    "kanji": "頭",
+    "onyomi": "tou, zu, toトウ、ズ、ト",
+    "kunyomi": "atama, kashiraあたま、かしら",
+    "meaning": "head"
+  },
+  {
+    "level": "n3",
+    "number": "170",
+    "kanji": "負",
+    "onyomi": "fuフ",
+    "kunyomi": "ma(keru), o(u)ま(ける)、 お(う)",
+    "meaning": "defeat, negative, minus, assume a responsibility"
+  },
+  {
+    "level": "n3",
+    "number": "171",
+    "kanji": "渡",
+    "onyomi": "toト",
+    "kunyomi": "wata(ru)わた(る)",
+    "meaning": "transit, ferry, cross"
+  },
+  {
+    "level": "n3",
+    "number": "172",
+    "kanji": "失",
+    "onyomi": "shitsuシツ",
+    "kunyomi": "ushina(u), u(seru)うしな(う)、 う(せる)",
+    "meaning": "lose, error, fault, disadvantage, loss"
+  },
+  {
+    "level": "n3",
+    "number": "173",
+    "kanji": "差",
+    "onyomi": "saサ",
+    "kunyomi": "sa(su)さ(す)",
+    "meaning": "distinction, difference, variation"
+  },
+  {
+    "level": "n3",
+    "number": "174",
+    "kanji": "末",
+    "onyomi": "matsuマツ",
+    "kunyomi": "sueすえ",
+    "meaning": "end, close, tip"
+  },
+  {
+    "level": "n3",
+    "number": "175",
+    "kanji": "守",
+    "onyomi": "shu, suシュ、ス",
+    "kunyomi": "mamo(ru), moriまも(る)、もり",
+    "meaning": "guard, protect, obey"
+  },
+  {
+    "level": "n3",
+    "number": "176",
+    "kanji": "若",
+    "onyomi": "jakuジャク",
+    "kunyomi": "waka(i), mo(shi)わか(い)、も(し)",
+    "meaning": "young"
+  },
+  {
+    "level": "n3",
+    "number": "177",
+    "kanji": "種",
+    "onyomi": "shuシュ",
+    "kunyomi": "tane, -gusaたね、-ぐさ",
+    "meaning": "species, kind, class, seed"
+  },
+  {
+    "level": "n3",
+    "number": "178",
+    "kanji": "美",
+    "onyomi": "bi, miビ、 ミ",
+    "kunyomi": "utsukushiiうつく(しい)",
+    "meaning": "beauty, beautiful"
+  },
+  {
+    "level": "n3",
+    "number": "179",
+    "kanji": "命",
+    "onyomi": "mei, myouメイ、ミョウ",
+    "kunyomi": "inochiいのち",
+    "meaning": "fate, command"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "180",
+    "kanji": "福",
+    "onyomi": "fukuフク",
+    "kunyomi": "",
+    "meaning": "blessing, fortune, luck, wealth"
+  },
+  {
+    "level": "n3",
+    "number": "181",
+    "kanji": "望",
+    "onyomi": "bouボウ",
+    "kunyomi": "nozo(mu), mochiのぞ(む)、 もち",
+    "meaning": "ambition, full moon, hope, desire, aspire to, expect"
+  },
+  {
+    "level": "n3",
+    "number": "182",
+    "kanji": "非",
+    "onyomi": "hiヒ",
+    "kunyomi": "ara(zu)あら(ず)",
+    "meaning": "un-, mistake, negative"
+  },
+  {
+    "level": "n3",
+    "number": "183",
+    "kanji": "観",
+    "onyomi": "kanカン",
+    "kunyomi": "mi(ru)み(る)",
+    "meaning": "outlook, appearance, condition"
+  },
+  {
+    "level": "n3",
+    "number": "184",
+    "kanji": "察",
+    "onyomi": "satsuサツ",
+    "kunyomi": "",
+    "meaning": "guess, presume, judge"
+  },
+  {
+    "level": "n3",
+    "number": "185",
+    "kanji": "段",
+    "onyomi": "danダン",
+    "kunyomi": "",
+    "meaning": "grade, steps, stairs"
+  },
+  {
+    "level": "n3",
+    "number": "186",
+    "kanji": "横",
+    "onyomi": "ouオウ",
+    "kunyomi": "yokoよこ",
+    "meaning": "sideways, side"
+  },
+  {
+    "level": "n3",
+    "number": "187",
+    "kanji": "深",
+    "onyomi": "shinシン",
+    "kunyomi": "fuka(i)ふか(い)",
+    "meaning": "deep, heighten"
+  },
+  {
+    "level": "n3",
+    "number": "188",
+    "kanji": "申",
+    "onyomi": "shinシン",
+    "kunyomi": "mou(su), saruもう(す)、さる",
+    "meaning": "have the honor to"
+  },
+  {
+    "level": "n3",
+    "number": "189",
+    "kanji": "様",
+    "onyomi": "youヨウ",
+    "kunyomi": "sama, sanさま、さん",
+    "meaning": "manner, situation, polite suffix"
+  },
+  {
+    "level": "n3",
+    "number": "190",
+    "kanji": "財",
+    "onyomi": "zai, sai, zokuザイ、 サイ、 ゾク",
+    "kunyomi": "",
+    "meaning": "property, money, wealth, assets"
+  },
+  {
+    "level": "n3",
+    "number": "191",
+    "kanji": "港",
+    "onyomi": "kouコウ",
+    "kunyomi": "minatoみなと",
+    "meaning": "harbor, port"
+  },
+  {
+    "level": "n3",
+    "number": "192",
+    "kanji": "識",
+    "onyomi": "shikiシキ",
+    "kunyomi": "shi(ru)し(る)",
+    "meaning": "know"
+  },
+  {
+    "level": "n3",
+    "number": "193",
+    "kanji": "呼",
+    "onyomi": "koコ",
+    "kunyomi": "yo(bu)よ(ぶ)",
+    "meaning": "call, invite"
+  },
+  {
+    "level": "n3",
+    "number": "194",
+    "kanji": "達",
+    "onyomi": "tatsu, daタツ、 ダ",
+    "kunyomi": "-tachi-たち",
+    "meaning": "accomplished, reach, arrive, attain"
+  },
+  {
+    "level": "n3",
+    "number": "195",
+    "kanji": "良",
+    "onyomi": "ryouリョウ",
+    "kunyomi": "yo(i), i(i)よ(い)、い(い)",
+    "meaning": "good"
+  },
+  {
+    "level": "n3",
+    "number": "196",
+    "kanji": "阪",
+    "onyomi": "hanハン",
+    "kunyomi": "sakaさか",
+    "meaning": "heights, slope"
+  },
+  {
+    "level": "n3",
+    "number": "197",
+    "kanji": "候",
+    "onyomi": "kouコウ",
+    "kunyomi": "sourouそうろう",
+    "meaning": "climate, season, weather"
+  },
+  {
+    "level": "n3",
+    "number": "198",
+    "kanji": "程",
+    "onyomi": "teiテイ",
+    "kunyomi": "hodoほど",
+    "meaning": "extent, degree"
+  },
+  {
+    "level": "n3",
+    "number": "199",
+    "kanji": "満",
+    "onyomi": "manマン",
+    "kunyomi": "mi(chiru)み(ちる)",
+    "meaning": "full, fullness, enough, satisfy"
+  },
+  {
+    "level": "n3",
+    "number": "200",
+    "kanji": "敗",
+    "onyomi": "haiハイ",
+    "kunyomi": "yabu(reru)やぶ(れる)",
+    "meaning": "failure, defeat"
+  },
+  {
+    "level": "n3",
+    "number": "201",
+    "kanji": "値",
+    "onyomi": "chiチ",
+    "kunyomi": "ne, ataiね、 あたい",
+    "meaning": "price, cost, value"
+  },
+  {
+    "level": "n3",
+    "number": "202",
+    "kanji": "突",
+    "onyomi": "totsu, kaトツ、カ",
+    "kunyomi": "tsu(ku)つ(く)",
+    "meaning": "stab, protruding, thrust"
+  },
+  {
+    "level": "n3",
+    "number": "203",
+    "kanji": "光",
+    "onyomi": "kouコウ",
+    "kunyomi": "hika(ru), hikariひか(る)、ひかり",
+    "meaning": "ray, light"
+  },
+  {
+    "level": "n3",
+    "number": "204",
+    "kanji": "路",
+    "onyomi": "ro, ruロ、ル",
+    "kunyomi": "michiみち",
+    "meaning": "path, route, road"
+  },
+  {
+    "level": "n3",
+    "number": "205",
+    "kanji": "科",
+    "onyomi": "kaカ",
+    "kunyomi": "",
+    "meaning": "department, course, section"
+  },
+  {
+    "level": "n3",
+    "number": "206",
+    "kanji": "積",
+    "onyomi": "sekiセキ",
+    "kunyomi": "tsu(mu)つ(む)",
+    "meaning": "volume, contents, pile up, stack"
+  },
+  {
+    "level": "n3",
+    "number": "207",
+    "kanji": "他",
+    "onyomi": "taタ",
+    "kunyomi": "hokaほか",
+    "meaning": "other, another"
+  },
+  {
+    "level": "n3",
+    "number": "208",
+    "kanji": "処",
+    "onyomi": "shoショ",
+    "kunyomi": "",
+    "meaning": "dispose, manage, deal with"
+  },
+  {
+    "level": "n3",
+    "number": "209",
+    "kanji": "太",
+    "onyomi": "tai, taタイ、タ",
+    "kunyomi": "futo(i)ふと(い)",
+    "meaning": "plump, thick, big around"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "210",
+    "kanji": "客",
+    "onyomi": "kyaku, kakuキャク、カク",
+    "kunyomi": "",
+    "meaning": "guest, visitor, customer"
+  },
+  {
+    "level": "n3",
+    "number": "211",
+    "kanji": "否",
+    "onyomi": "hiヒ",
+    "kunyomi": "ina, iyaいな、いや",
+    "meaning": "negate, no, decline"
+  },
+  {
+    "level": "n3",
+    "number": "212",
+    "kanji": "師",
+    "onyomi": "shiシ",
+    "kunyomi": "",
+    "meaning": "expert, teacher, master"
+  },
+  {
+    "level": "n3",
+    "number": "213",
+    "kanji": "登",
+    "onyomi": "tou, toトウ、ト",
+    "kunyomi": "nobo(ru), a(garu)のぼ(る)、あ(がる)",
+    "meaning": "ascend, climb up"
+  },
+  {
+    "level": "n3",
+    "number": "214",
+    "kanji": "易",
+    "onyomi": "eki, iエキ、 イ",
+    "kunyomi": "yasa(shii), yasu(i)やさ(しい)、 やす(い)",
+    "meaning": "easy, ready to, simple"
+  },
+  {
+    "level": "n3",
+    "number": "215",
+    "kanji": "速",
+    "onyomi": "sokuソク",
+    "kunyomi": "haya(i)はや(い)",
+    "meaning": "quick, fast"
+  },
+  {
+    "level": "n3",
+    "number": "216",
+    "kanji": "存",
+    "onyomi": "son, zonソン、ゾン",
+    "kunyomi": "",
+    "meaning": "exist, be aware of"
+  },
+  {
+    "level": "n3",
+    "number": "217",
+    "kanji": "飛",
+    "onyomi": "hiヒ",
+    "kunyomi": "to(bu)と(ぶ)",
+    "meaning": "fly"
+  },
+  {
+    "level": "n3",
+    "number": "218",
+    "kanji": "殺",
+    "onyomi": "satsu, saiサツ、サイ",
+    "kunyomi": "koro(su)ころ(す)",
+    "meaning": "kill, murder"
+  },
+  {
+    "level": "n3",
+    "number": "219",
+    "kanji": "号",
+    "onyomi": "gouゴウ",
+    "kunyomi": "",
+    "meaning": "number, item"
+  },
+  {
+    "level": "n3",
+    "number": "220",
+    "kanji": "単",
+    "onyomi": "tanタン",
+    "kunyomi": "hitoeひとえ",
+    "meaning": "simple, single"
+  },
+  {
+    "level": "n3",
+    "number": "221",
+    "kanji": "座",
+    "onyomi": "zaザ",
+    "kunyomi": "suwa(ru)すわ(る)",
+    "meaning": "squat, seat, sit"
+  },
+  {
+    "level": "n3",
+    "number": "222",
+    "kanji": "破",
+    "onyomi": "haハ",
+    "kunyomi": "yabu(ru)やぶ(る)",
+    "meaning": "rip, tear, break"
+  },
+  {
+    "level": "n3",
+    "number": "223",
+    "kanji": "除",
+    "onyomi": "jo, jiジョ、ジ",
+    "kunyomi": "nozo(ku)のぞ(く)",
+    "meaning": "exclude, remove"
+  },
+  {
+    "level": "n3",
+    "number": "224",
+    "kanji": "完",
+    "onyomi": "kanカン",
+    "kunyomi": "",
+    "meaning": "perfect, completion"
+  },
+  {
+    "level": "n3",
+    "number": "225",
+    "kanji": "降",
+    "onyomi": "kou, goコウ、 ゴ",
+    "kunyomi": "o(riru), fu(ru)お(りる)、 ふ(る)",
+    "meaning": "descend, precipitate, fall, surrender"
+  },
+  {
+    "level": "n3",
+    "number": "226",
+    "kanji": "責",
+    "onyomi": "sekiセキ",
+    "kunyomi": "se(meru)せ(める)",
+    "meaning": "blame, condemn"
+  },
+  {
+    "level": "n3",
+    "number": "227",
+    "kanji": "捕",
+    "onyomi": "hoホ",
+    "kunyomi": "to(raeru), tsuka(maeru)と(らえる)、つか(まえる)",
+    "meaning": "catch, capture"
+  },
+  {
+    "level": "n3",
+    "number": "228",
+    "kanji": "危",
+    "onyomi": "kiキ",
+    "kunyomi": "abu(nai), aya(ui)あぶ(ない)、あや(うい)",
+    "meaning": "dangerous, fear, uneasy"
+  },
+  {
+    "level": "n3",
+    "number": "229",
+    "kanji": "給",
+    "onyomi": "kyuuキュウ",
+    "kunyomi": "tama(u), tamo(u)たま(う)、たも(う)",
+    "meaning": "salary, wage, gift"
+  },
+  {
+    "level": "n3",
+    "number": "230",
+    "kanji": "苦",
+    "onyomi": "kuク",
+    "kunyomi": "kuru(shii), niga(i)くる(しい)、にが(い)",
+    "meaning": "suffering, bitter"
+  },
+  {
+    "level": "n3",
+    "number": "231",
+    "kanji": "迎",
+    "onyomi": "geiゲイ",
+    "kunyomi": "muka(eru)むか(える)",
+    "meaning": "welcome, meet, greet"
+  },
+  {
+    "level": "n3",
+    "number": "232",
+    "kanji": "園",
+    "onyomi": "enエン",
+    "kunyomi": "sonoその",
+    "meaning": "park, garden, yard"
+  },
+  {
+    "level": "n3",
+    "number": "233",
+    "kanji": "具",
+    "onyomi": "guグ",
+    "kunyomi": "sona(eru), tsubasa(ni)そな(える)、つぶさ(に)",
+    "meaning": "tool, utensil"
+  },
+  {
+    "level": "n3",
+    "number": "234",
+    "kanji": "辞",
+    "onyomi": "jiジ",
+    "kunyomi": "ya(meru)や(める)",
+    "meaning": "resign, word, term"
+  },
+  {
+    "level": "n3",
+    "number": "235",
+    "kanji": "因",
+    "onyomi": "inイン",
+    "kunyomi": "yo(ru), china(mu)よ(る)、ちな(む)",
+    "meaning": "cause, factor, depend on"
+  },
+  {
+    "level": "n3",
+    "number": "236",
+    "kanji": "馬",
+    "onyomi": "baバ",
+    "kunyomi": "umaうま",
+    "meaning": "horse"
+  },
+  {
+    "level": "n3",
+    "number": "237",
+    "kanji": "愛",
+    "onyomi": "aiアイ",
+    "kunyomi": "ito(shii), manaいと(しい)、まな",
+    "meaning": "love, affection"
+  },
+  {
+    "level": "n3",
+    "number": "238",
+    "kanji": "富",
+    "onyomi": "fu, fuuフ、フウ",
+    "kunyomi": "to(mu), tomiと(む)、 とみ",
+    "meaning": "wealth, enrich, abundant"
+  },
+  {
+    "level": "n3",
+    "number": "239",
+    "kanji": "彼",
+    "onyomi": "hiヒ",
+    "kunyomi": "kare, kanoかれ、 かの",
+    "meaning": "he, him"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "240",
+    "kanji": "未",
+    "onyomi": "mi, biミ、ビ",
+    "kunyomi": "ima(da), ma(da)いま(だ)、ま(だ)",
+    "meaning": "un-, not yet"
+  },
+  {
+    "level": "n3",
+    "number": "241",
+    "kanji": "舞",
+    "onyomi": "buブ",
+    "kunyomi": "ma(u), maiま(う)、まい",
+    "meaning": "dance, circle"
+  },
+  {
+    "level": "n3",
+    "number": "242",
+    "kanji": "亡",
+    "onyomi": "bou, mouボウ、モウ",
+    "kunyomi": "na(kunaru)な(くなる)",
+    "meaning": "deceased, dying"
+  },
+  {
+    "level": "n3",
+    "number": "243",
+    "kanji": "冷",
+    "onyomi": "reiレイ",
+    "kunyomi": "tsume(tai), hi(eru), sa(meru)つめ(たい)、ひ(える)、さ(める)",
+    "meaning": "cool, cold, chill"
+  },
+  {
+    "level": "n3",
+    "number": "244",
+    "kanji": "適",
+    "onyomi": "tekiテキ",
+    "kunyomi": "kana(u)かな(う)",
+    "meaning": "suitable, occasional, rare"
+  },
+  {
+    "level": "n3",
+    "number": "245",
+    "kanji": "婦",
+    "onyomi": "fuフ",
+    "kunyomi": "yomeよめ",
+    "meaning": "lady, woman, wife"
+  },
+  {
+    "level": "n3",
+    "number": "246",
+    "kanji": "寄",
+    "onyomi": "kiキ",
+    "kunyomi": "yo(ru)よ(る)",
+    "meaning": "draw near, gather"
+  },
+  {
+    "level": "n3",
+    "number": "247",
+    "kanji": "込",
+    "onyomi": "",
+    "kunyomi": "ko(mu)こ(む)",
+    "meaning": "crowded, mixture"
+  },
+  {
+    "level": "n3",
+    "number": "248",
+    "kanji": "顔",
+    "onyomi": "ganガン",
+    "kunyomi": "kaoかお",
+    "meaning": "face, expression"
+  },
+  {
+    "level": "n3",
+    "number": "249",
+    "kanji": "類",
+    "onyomi": "ruiルイ",
+    "kunyomi": "tagu(i)たぐ(い)",
+    "meaning": "sort, kind, variety, class, genus"
+  },
+  {
+    "level": "n3",
+    "number": "250",
+    "kanji": "余",
+    "onyomi": "yoヨ",
+    "kunyomi": "ama(ru)あま(る)",
+    "meaning": "too much, surplus"
+  },
+  {
+    "level": "n3",
+    "number": "251",
+    "kanji": "王",
+    "onyomi": "ouオウ",
+    "kunyomi": "",
+    "meaning": "king, rule"
+  },
+  {
+    "level": "n3",
+    "number": "252",
+    "kanji": "返",
+    "onyomi": "henヘン",
+    "kunyomi": "kae(su)かえ(す)",
+    "meaning": "return, answer"
+  },
+  {
+    "level": "n3",
+    "number": "253",
+    "kanji": "妻",
+    "onyomi": "saiサイ",
+    "kunyomi": "tsumaつま",
+    "meaning": "wife, spouse"
+  },
+  {
+    "level": "n3",
+    "number": "254",
+    "kanji": "背",
+    "onyomi": "haiハイ",
+    "kunyomi": "se, seiせ、せい",
+    "meaning": "stature, height, back"
+  },
+  {
+    "level": "n3",
+    "number": "255",
+    "kanji": "熱",
+    "onyomi": "netsuネツ",
+    "kunyomi": "atsu(i)あつ(い)",
+    "meaning": "heat, fever, passion"
+  },
+  {
+    "level": "n3",
+    "number": "256",
+    "kanji": "宿",
+    "onyomi": "shukuシュク",
+    "kunyomi": "yadoやど",
+    "meaning": "inn, lodging"
+  },
+  {
+    "level": "n3",
+    "number": "257",
+    "kanji": "薬",
+    "onyomi": "yakuヤク",
+    "kunyomi": "kusuriくすり",
+    "meaning": "medicine, chemical"
+  },
+  {
+    "level": "n3",
+    "number": "258",
+    "kanji": "険",
+    "onyomi": "kenケン",
+    "kunyomi": "kewa(shii)けわ(しい)",
+    "meaning": "precipitous, inaccessible place"
+  },
+  {
+    "level": "n3",
+    "number": "259",
+    "kanji": "頼",
+    "onyomi": "raiライ",
+    "kunyomi": "tano(mu), tayo(ru)たの(む)、 たよ(る)",
+    "meaning": "trust, request"
+  },
+  {
+    "level": "n3",
+    "number": "260",
+    "kanji": "覚",
+    "onyomi": "kakuカク",
+    "kunyomi": "obo(eru), sa(masu)おぼ(える)、 さ(ます)",
+    "meaning": "memorize, learn, remember, awake"
+  },
+  {
+    "level": "n3",
+    "number": "261",
+    "kanji": "船",
+    "onyomi": "senセン",
+    "kunyomi": "fune, funaふね、ふな",
+    "meaning": "ship, boat"
+  },
+  {
+    "level": "n3",
+    "number": "262",
+    "kanji": "途",
+    "onyomi": "toト",
+    "kunyomi": "michiみち",
+    "meaning": "route, way, road"
+  },
+  {
+    "level": "n3",
+    "number": "263",
+    "kanji": "許",
+    "onyomi": "kyoキョ",
+    "kunyomi": "yuru(su)ゆる(す)",
+    "meaning": "permit, approve"
+  },
+  {
+    "level": "n3",
+    "number": "264",
+    "kanji": "抜",
+    "onyomi": "batsuバツ",
+    "kunyomi": "nu(ku)ぬ(く)",
+    "meaning": "slip out, extract, pull out, remove"
+  },
+  {
+    "level": "n3",
+    "number": "265",
+    "kanji": "便",
+    "onyomi": "ben, binベン、 ビン",
+    "kunyomi": "tayo(ri)たよ(り)",
+    "meaning": "convenience, facility"
+  },
+  {
+    "level": "n3",
+    "number": "266",
+    "kanji": "留",
+    "onyomi": "ryuu, ruリュウ、 ル",
+    "kunyomi": "to(maru), todo(meru)と(まる)、 とど(める)",
+    "meaning": "detain, fasten, halt, stop"
+  },
+  {
+    "level": "n3",
+    "number": "267",
+    "kanji": "罪",
+    "onyomi": "zaiザイ",
+    "kunyomi": "tsumiつみ",
+    "meaning": "guilt, sin, crime"
+  },
+  {
+    "level": "n3",
+    "number": "268",
+    "kanji": "努",
+    "onyomi": "doド",
+    "kunyomi": "tsuto(meru)つと(める)",
+    "meaning": "toil, diligent, as much as possible"
+  },
+  {
+    "level": "n3",
+    "number": "269",
+    "kanji": "精",
+    "onyomi": "sei, shouセイ、ショウ",
+    "kunyomi": "shira(geru)しら(げる)",
+    "meaning": "refined, ghost, fairy, energy"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "270",
+    "kanji": "散",
+    "onyomi": "sanサン",
+    "kunyomi": "chi(ru), bara(keru)ち(る)、ばら(ける)",
+    "meaning": "scatter, disperse"
+  },
+  {
+    "level": "n3",
+    "number": "271",
+    "kanji": "静",
+    "onyomi": "sei, jouセイ、ジョウ",
+    "kunyomi": "shizu(ka)しず(か)",
+    "meaning": "quiet"
+  },
+  {
+    "level": "n3",
+    "number": "272",
+    "kanji": "婚",
+    "onyomi": "konコン",
+    "kunyomi": "",
+    "meaning": "marriage"
+  },
+  {
+    "level": "n3",
+    "number": "273",
+    "kanji": "喜",
+    "onyomi": "kiキ",
+    "kunyomi": "yoroko(bu)よろこ(ぶ)",
+    "meaning": "rejoice, take pleasure in"
+  },
+  {
+    "level": "n3",
+    "number": "274",
+    "kanji": "浮",
+    "onyomi": "fuフ",
+    "kunyomi": "u(kabu)う(かぶ)",
+    "meaning": "float, rise to surface"
+  },
+  {
+    "level": "n3",
+    "number": "275",
+    "kanji": "絶",
+    "onyomi": "zetsuゼツ",
+    "kunyomi": "ta(eru)た(える)",
+    "meaning": "discontinue, unparalleled"
+  },
+  {
+    "level": "n3",
+    "number": "276",
+    "kanji": "幸",
+    "onyomi": "kouコウ",
+    "kunyomi": "saiwa(i), sara, shiawa(se)さいわ(い)、さち、 しあわ(せ)",
+    "meaning": "happiness, blessing, fortune"
+  },
+  {
+    "level": "n3",
+    "number": "277",
+    "kanji": "押",
+    "onyomi": "ouオウ",
+    "kunyomi": "o(su)お(す)",
+    "meaning": "push"
+  },
+  {
+    "level": "n3",
+    "number": "278",
+    "kanji": "倒",
+    "onyomi": "touトウ",
+    "kunyomi": "tao(reru)たお(れる)",
+    "meaning": "overthrow, fall, collapse"
+  },
+  {
+    "level": "n3",
+    "number": "279",
+    "kanji": "等",
+    "onyomi": "touトウ",
+    "kunyomi": "hito(shii), nadoひと(しい)、など",
+    "meaning": "etc., and so forth"
+  },
+  {
+    "level": "n3",
+    "number": "280",
+    "kanji": "老",
+    "onyomi": "rouロウ",
+    "kunyomi": "o(iru), fu(keru)お(いる)、ふ(ける)",
+    "meaning": "old"
+  },
+  {
+    "level": "n3",
+    "number": "281",
+    "kanji": "曲",
+    "onyomi": "kyokuキョク",
+    "kunyomi": "ma(garu)ま(がる)",
+    "meaning": "bend, music, melody"
+  },
+  {
+    "level": "n3",
+    "number": "282",
+    "kanji": "払",
+    "onyomi": "",
+    "kunyomi": "hara(u)はら(う)",
+    "meaning": "pay"
+  },
+  {
+    "level": "n3",
+    "number": "283",
+    "kanji": "庭",
+    "onyomi": "teiテイ",
+    "kunyomi": "niwaにわ",
+    "meaning": "courtyard, garden, yard"
+  },
+  {
+    "level": "n3",
+    "number": "284",
+    "kanji": "徒",
+    "onyomi": "toト",
+    "kunyomi": "itazura, adaいたずら、 あだ",
+    "meaning": "on foot, junior, vanity, futility, uselessness"
+  },
+  {
+    "level": "n3",
+    "number": "285",
+    "kanji": "勤",
+    "onyomi": "kin, gonキン、ゴン",
+    "kunyomi": "tsuto(meru)つと(める)",
+    "meaning": "diligence, employed, serve"
+  },
+  {
+    "level": "n3",
+    "number": "286",
+    "kanji": "遅",
+    "onyomi": "chiチ",
+    "kunyomi": "oku(reru), oso(i)おく(れる)、 おそ(い)",
+    "meaning": "slow, late, back, later"
+  },
+  {
+    "level": "n3",
+    "number": "287",
+    "kanji": "居",
+    "onyomi": "kyo, koキョ、コ",
+    "kunyomi": "i(ru), o(ru)い(る)、お(る)",
+    "meaning": "reside, to be, exist"
+  },
+  {
+    "level": "n3",
+    "number": "288",
+    "kanji": "雑",
+    "onyomi": "zatsu, zouザツ、ゾウ",
+    "kunyomi": "maji(ru)まじ(る)",
+    "meaning": "miscellaneous"
+  },
+  {
+    "level": "n3",
+    "number": "289",
+    "kanji": "招",
+    "onyomi": "shouショウ",
+    "kunyomi": "mane(ku)まね(く)",
+    "meaning": "invite, summon, engage"
+  },
+  {
+    "level": "n3",
+    "number": "290",
+    "kanji": "困",
+    "onyomi": "konコン",
+    "kunyomi": "koma(ru)こま(る)",
+    "meaning": "quandary, become distressed"
+  },
+  {
+    "level": "n3",
+    "number": "291",
+    "kanji": "欠",
+    "onyomi": "ketsu, kenケツ、ケン",
+    "kunyomi": "ka(keru)か(ける)",
+    "meaning": "lack, gap"
+  },
+  {
+    "level": "n3",
+    "number": "292",
+    "kanji": "更",
+    "onyomi": "kouコウ",
+    "kunyomi": "sara(ni), fu(keru)さら(に)、ふ(ける)",
+    "meaning": "renew, renovate, again"
+  },
+  {
+    "level": "n3",
+    "number": "293",
+    "kanji": "刻",
+    "onyomi": "kokuコク",
+    "kunyomi": "kiza(mu)きざ(む)",
+    "meaning": "engrave, cut fine, chop"
+  },
+  {
+    "level": "n3",
+    "number": "294",
+    "kanji": "賛",
+    "onyomi": "sanサン",
+    "kunyomi": "",
+    "meaning": "approve, praise"
+  },
+  {
+    "level": "n3",
+    "number": "295",
+    "kanji": "抱",
+    "onyomi": "houホウ",
+    "kunyomi": "da(ku), ida(ku), kaka(eru)だ(く)、いだ(く)、かか(える)",
+    "meaning": "embrace, hug"
+  },
+  {
+    "level": "n3",
+    "number": "296",
+    "kanji": "犯",
+    "onyomi": "hanハン",
+    "kunyomi": "oka(su)おか(す)",
+    "meaning": "crime, sin, offense"
+  },
+  {
+    "level": "n3",
+    "number": "297",
+    "kanji": "恐",
+    "onyomi": "kyouキョウ",
+    "kunyomi": "oso(reru), kowa(i)おそ(れる)、こわ(い)",
+    "meaning": "fear, dread"
+  },
+  {
+    "level": "n3",
+    "number": "298",
+    "kanji": "息",
+    "onyomi": "musu, sokuムス、ソク",
+    "kunyomi": "ikiいき",
+    "meaning": "breath, son, interest (on money)"
+  },
+  {
+    "level": "n3",
+    "number": "299",
+    "kanji": "遠",
+    "onyomi": "en, onエン",
+    "kunyomi": "too(i)とお(い)",
+    "meaning": "distant, far"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "300",
+    "kanji": "戻",
+    "onyomi": "reiレイ",
+    "kunyomi": "modo(ru)もど(る)",
+    "meaning": "re-, return, revert"
+  },
+  {
+    "level": "n3",
+    "number": "301",
+    "kanji": "願",
+    "onyomi": "ganガン",
+    "kunyomi": "nega(u)ねが(う)",
+    "meaning": "petition, request, wish"
+  },
+  {
+    "level": "n3",
+    "number": "302",
+    "kanji": "絵",
+    "onyomi": "kai, eカイ、エ",
+    "kunyomi": "",
+    "meaning": "picture, drawing"
+  },
+  {
+    "level": "n3",
+    "number": "303",
+    "kanji": "越",
+    "onyomi": "etsuエツ",
+    "kunyomi": "ko(su)こ(す)",
+    "meaning": "surpass, cross over, move to, exceed"
+  },
+  {
+    "level": "n3",
+    "number": "304",
+    "kanji": "欲",
+    "onyomi": "yokuヨク",
+    "kunyomi": "ho(shii)ほ(しい)",
+    "meaning": "longing, greed, passion"
+  },
+  {
+    "level": "n3",
+    "number": "305",
+    "kanji": "痛",
+    "onyomi": "tsuuツウ",
+    "kunyomi": "ita(i)いた(い)",
+    "meaning": "pain, hurt, damage, bruise"
+  },
+  {
+    "level": "n3",
+    "number": "306",
+    "kanji": "笑",
+    "onyomi": "shouショウ",
+    "kunyomi": "wara(u), e(mu)わら(う)、え(む)",
+    "meaning": "laugh"
+  },
+  {
+    "level": "n3",
+    "number": "307",
+    "kanji": "互",
+    "onyomi": "goゴ",
+    "kunyomi": "taga(i), katami(ni)たが(い)、かたみ(に)",
+    "meaning": "mutually, reciprocally, together"
+  },
+  {
+    "level": "n3",
+    "number": "308",
+    "kanji": "束",
+    "onyomi": "sokuソク",
+    "kunyomi": "taba, tsukaたば、つか",
+    "meaning": "bundle, manage"
+  },
+  {
+    "level": "n3",
+    "number": "309",
+    "kanji": "似",
+    "onyomi": "ji, neジ、ね",
+    "kunyomi": "ni(ru)に(る)",
+    "meaning": "becoming, resemble, imitate"
+  },
+  {
+    "level": "n3",
+    "number": "310",
+    "kanji": "列",
+    "onyomi": "retsu, reレツ、レ",
+    "kunyomi": "",
+    "meaning": "file, row, column"
+  },
+  {
+    "level": "n3",
+    "number": "311",
+    "kanji": "探",
+    "onyomi": "tanタン",
+    "kunyomi": "sagu(ru), saga(su)さぐ(る)、さが(す)",
+    "meaning": "search, look for"
+  },
+  {
+    "level": "n3",
+    "number": "312",
+    "kanji": "逃",
+    "onyomi": "touトウ",
+    "kunyomi": "ni(geru), noga(su)に(げる)、のが(す)",
+    "meaning": "escape, flee"
+  },
+  {
+    "level": "n3",
+    "number": "313",
+    "kanji": "遊",
+    "onyomi": "yuuユウ",
+    "kunyomi": "aso(bu)あそ(ぶ)",
+    "meaning": "play"
+  },
+  {
+    "level": "n3",
+    "number": "314",
+    "kanji": "迷",
+    "onyomi": "meiメイ",
+    "kunyomi": "mayo(u)まよ(う)",
+    "meaning": "astray, be perplexed, in doubt, lost"
+  },
+  {
+    "level": "n3",
+    "number": "315",
+    "kanji": "夢",
+    "onyomi": "muム",
+    "kunyomi": "yumeゆめ",
+    "meaning": "dream, vision"
+  },
+  {
+    "level": "n3",
+    "number": "316",
+    "kanji": "君",
+    "onyomi": "kunクン",
+    "kunyomi": "kimiきみ",
+    "meaning": "you, male name suffix"
+  },
+  {
+    "level": "n3",
+    "number": "317",
+    "kanji": "閉",
+    "onyomi": "heiヘイ",
+    "kunyomi": "to(jiru), shi(meru)と(じる)、し(める)",
+    "meaning": "closed, shut"
+  },
+  {
+    "level": "n3",
+    "number": "318",
+    "kanji": "緒",
+    "onyomi": "shoショ",
+    "kunyomi": "oお",
+    "meaning": "beginning, end, cord, strap"
+  },
+  {
+    "level": "n3",
+    "number": "319",
+    "kanji": "折",
+    "onyomi": "setsu, shakuセツ、シャク",
+    "kunyomi": "o(ru), oriお(る)、おり",
+    "meaning": "fold, break, fracture"
+  },
+  {
+    "level": "n3",
+    "number": "320",
+    "kanji": "草",
+    "onyomi": "souソウ",
+    "kunyomi": "kusaくさ",
+    "meaning": "grass, weeds, herbs"
+  },
+  {
+    "level": "n3",
+    "number": "321",
+    "kanji": "暮",
+    "onyomi": "boボ",
+    "kunyomi": "ku(rasu)く(らす)",
+    "meaning": "evening, livelihood"
+  },
+  {
+    "level": "n3",
+    "number": "322",
+    "kanji": "酒",
+    "onyomi": "shuシュ",
+    "kunyomi": "sake, saka-さけ、さか-",
+    "meaning": "sake, alcohol"
+  },
+  {
+    "level": "n3",
+    "number": "323",
+    "kanji": "悲",
+    "onyomi": "hiヒ",
+    "kunyomi": "kana(shii)かな(しい)",
+    "meaning": "grieve, sad"
+  },
+  {
+    "level": "n3",
+    "number": "324",
+    "kanji": "晴",
+    "onyomi": "seiセイ",
+    "kunyomi": "ha(reru)は(れる)",
+    "meaning": "clear up"
+  },
+  {
+    "level": "n3",
+    "number": "325",
+    "kanji": "掛",
+    "onyomi": "keiケイ",
+    "kunyomi": "ka(keru)か(ける)",
+    "meaning": "hang, suspend"
+  },
+  {
+    "level": "n3",
+    "number": "326",
+    "kanji": "到",
+    "onyomi": "touトウ",
+    "kunyomi": "ita(ru)いた(る)",
+    "meaning": "arrival, proceed, reach"
+  },
+  {
+    "level": "n3",
+    "number": "327",
+    "kanji": "寝",
+    "onyomi": "shinシン",
+    "kunyomi": "ne(ru)ね(る)",
+    "meaning": "lie down, sleep, rest"
+  },
+  {
+    "level": "n3",
+    "number": "328",
+    "kanji": "暗",
+    "onyomi": "anアン",
+    "kunyomi": "kura(i)くら(い)",
+    "meaning": "darkness, disappear, shade, informal"
+  },
+  {
+    "level": "n3",
+    "number": "329",
+    "kanji": "盗",
+    "onyomi": "touトウ",
+    "kunyomi": "nusu(mu)ぬす(む)",
+    "meaning": "steal, rob"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "330",
+    "kanji": "吸",
+    "onyomi": "kyuuキュウ",
+    "kunyomi": "su(u)す(う)",
+    "meaning": "suck, inhale"
+  },
+  {
+    "level": "n3",
+    "number": "331",
+    "kanji": "陽",
+    "onyomi": "youヨウ",
+    "kunyomi": "hiひ",
+    "meaning": "sunshine, positive"
+  },
+  {
+    "level": "n3",
+    "number": "332",
+    "kanji": "御",
+    "onyomi": "gyo, goギョ、ゴ",
+    "kunyomi": "on, oおん、お",
+    "meaning": "honorable"
+  },
+  {
+    "level": "n3",
+    "number": "333",
+    "kanji": "歯",
+    "onyomi": "shiシ",
+    "kunyomi": "haは",
+    "meaning": "tooth, cog"
+  },
+  {
+    "level": "n3",
+    "number": "334",
+    "kanji": "忘",
+    "onyomi": "bouボウ",
+    "kunyomi": "wasu(reru)わす(れる)",
+    "meaning": "forget"
+  },
+  {
+    "level": "n3",
+    "number": "335",
+    "kanji": "雪",
+    "onyomi": "setsuセツ",
+    "kunyomi": "yukiゆき",
+    "meaning": "snow"
+  },
+  {
+    "level": "n3",
+    "number": "336",
+    "kanji": "吹",
+    "onyomi": "suiスイ",
+    "kunyomi": "fu(ku)ふ(く)",
+    "meaning": "blow, breathe, puff"
+  },
+  {
+    "level": "n3",
+    "number": "337",
+    "kanji": "娘",
+    "onyomi": "jouジョウ",
+    "kunyomi": "musume, koむすめ、こ",
+    "meaning": "daughter, girl"
+  },
+  {
+    "level": "n3",
+    "number": "338",
+    "kanji": "誤",
+    "onyomi": "goゴ",
+    "kunyomi": "ayama(ru)あやま(る)",
+    "meaning": "mistake"
+  },
+  {
+    "level": "n3",
+    "number": "339",
+    "kanji": "洗",
+    "onyomi": "senセン",
+    "kunyomi": "ara(u)あら(う)",
+    "meaning": "wash"
+  },
+  {
+    "level": "n3",
+    "number": "340",
+    "kanji": "慣",
+    "onyomi": "kanカン",
+    "kunyomi": "na(reru)な(れる)",
+    "meaning": "accustomed, get used to"
+  },
+  {
+    "level": "n3",
+    "number": "341",
+    "kanji": "礼",
+    "onyomi": "rei, raiレイ、ライ",
+    "kunyomi": "",
+    "meaning": "salute, bow, ceremony, thanks"
+  },
+  {
+    "level": "n3",
+    "number": "342",
+    "kanji": "窓",
+    "onyomi": "souソウ",
+    "kunyomi": "madoまど",
+    "meaning": "window, pane"
+  },
+  {
+    "level": "n3",
+    "number": "343",
+    "kanji": "昔",
+    "onyomi": "seki, shakuセキ、シャク",
+    "kunyomi": "mukashiむかし",
+    "meaning": "once upon a time, old times"
+  },
+  {
+    "level": "n3",
+    "number": "344",
+    "kanji": "貧",
+    "onyomi": "hin, binヒン、ビン",
+    "kunyomi": "mazu(shii)まず(しい)",
+    "meaning": "poverty, poor"
+  },
+  {
+    "level": "n3",
+    "number": "345",
+    "kanji": "怒",
+    "onyomi": "doド",
+    "kunyomi": "ika(ru), oko(ru)いか(る)、 おこ(る)",
+    "meaning": "angry, be offended"
+  },
+  {
+    "level": "n3",
+    "number": "346",
+    "kanji": "泳",
+    "onyomi": "eiエイ",
+    "kunyomi": "oyo(gu)およ(ぐ)",
+    "meaning": "swim"
+  },
+  {
+    "level": "n3",
+    "number": "347",
+    "kanji": "祖",
+    "onyomi": "soソ",
+    "kunyomi": "",
+    "meaning": "ancestor, pioneer, founder"
+  },
+  {
+    "level": "n3",
+    "number": "348",
+    "kanji": "杯",
+    "onyomi": "haiハイ",
+    "kunyomi": "sakazukiさかずき",
+    "meaning": "glass, cup"
+  },
+  {
+    "level": "n3",
+    "number": "349",
+    "kanji": "疲",
+    "onyomi": "hiヒ",
+    "kunyomi": "tsuka(reru)つか(れる)",
+    "meaning": "exhausted, tire"
+  },
+  {
+    "level": "n3",
+    "number": "350",
+    "kanji": "皆",
+    "onyomi": "kaiカイ",
+    "kunyomi": "mina, minnaみな、 みんな",
+    "meaning": "all, everyone, everybody"
+  },
+  {
+    "level": "n3",
+    "number": "351",
+    "kanji": "鳴",
+    "onyomi": "meiメイ",
+    "kunyomi": "na(ku), na(ru)な(く)、な(る)",
+    "meaning": "chirp, cry, bark"
+  },
+  {
+    "level": "n3",
+    "number": "352",
+    "kanji": "腹",
+    "onyomi": "fukuフク",
+    "kunyomi": "haraはら",
+    "meaning": "abdomen, belly, stomach"
+  },
+  {
+    "level": "n3",
+    "number": "353",
+    "kanji": "煙",
+    "onyomi": "enエン",
+    "kunyomi": "kemu(ru), kemuriけむ(る)、けむり",
+    "meaning": "smoke"
+  },
+  {
+    "level": "n3",
+    "number": "354",
+    "kanji": "眠",
+    "onyomi": "minミン",
+    "kunyomi": "nemu(ru)ねむ(る)",
+    "meaning": "sleep"
+  },
+  {
+    "level": "n3",
+    "number": "355",
+    "kanji": "怖",
+    "onyomi": "fuフ",
+    "kunyomi": "kowa(i), o(jiru)こわ(い)、お(じる)",
+    "meaning": "dreadful, fearful"
+  },
+  {
+    "level": "n3",
+    "number": "356",
+    "kanji": "耳",
+    "onyomi": "jiジ",
+    "kunyomi": "mimiみみ",
+    "meaning": "ear"
+  },
+  {
+    "level": "n3",
+    "number": "357",
+    "kanji": "頂",
+    "onyomi": "chouチョウ",
+    "kunyomi": "itada(ku)いただ(く)",
+    "meaning": "receive, top, summit, peak"
+  },
+  {
+    "level": "n3",
+    "number": "358",
+    "kanji": "箱",
+    "onyomi": "souソウ",
+    "kunyomi": "hakoはこ",
+    "meaning": "box, chest"
+  },
+  {
+    "level": "n3",
+    "number": "359",
+    "kanji": "晩",
+    "onyomi": "banバン",
+    "kunyomi": "",
+    "meaning": "nightfall, night"
+  },
+  {
+    "level": "n3",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n3",
+    "number": "360",
+    "kanji": "寒",
+    "onyomi": "kanカン",
+    "kunyomi": "samu(i)さむ(い)",
+    "meaning": "cold"
+  },
+  {
+    "level": "n3",
+    "number": "361",
+    "kanji": "髪",
+    "onyomi": "hatsuハツ",
+    "kunyomi": "kamiかみ",
+    "meaning": "hair (on the head)"
+  },
+  {
+    "level": "n3",
+    "number": "362",
+    "kanji": "忙",
+    "onyomi": "bou, mouボウ、モウ",
+    "kunyomi": "isoga(shii)いそが(しい)",
+    "meaning": "busy, occupied"
+  },
+  {
+    "level": "n3",
+    "number": "363",
+    "kanji": "才",
+    "onyomi": "saiサイ",
+    "kunyomi": "",
+    "meaning": "genius, years old"
+  },
+  {
+    "level": "n3",
+    "number": "364",
+    "kanji": "靴",
+    "onyomi": "kaカ",
+    "kunyomi": "kutsuくつ",
+    "meaning": "shoes"
+  },
+  {
+    "level": "n3",
+    "number": "365",
+    "kanji": "恥",
+    "onyomi": "chiチ",
+    "kunyomi": "haji, ha(zukashii)はじ、は(ずかしい)",
+    "meaning": "shame, dishonor"
+  },
+  {
+    "level": "n3",
+    "number": "366",
+    "kanji": "偶",
+    "onyomi": "guuグウ",
+    "kunyomi": "tamaたま",
+    "meaning": "accidentally, even number"
+  },
+  {
+    "level": "n3",
+    "number": "367",
+    "kanji": "偉",
+    "onyomi": "iイ",
+    "kunyomi": "era(i)えら(い)",
+    "meaning": "admirable, greatness"
+  },
+  {
+    "level": "n3",
+    "number": "368",
+    "kanji": "猫",
+    "onyomi": "byouビョウ",
+    "kunyomi": "nekoねこ",
+    "meaning": "cat"
+  },
+  {
+    "level": "n3",
+    "number": "369",
+    "kanji": "幾",
+    "onyomi": "kiキ",
+    "kunyomi": "iku(tsu)いく(つ)",
+    "meaning": "how many, how much, some"
+  },
+  {
+    "level": "n3",
+    "number": "370",
+    "kanji": "誰",
+    "onyomi": "suiスイ",
+    "kunyomi": "dareだれ",
+    "meaning": "who, someone, somebody"
+  }
+]

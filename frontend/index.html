@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YOU WILL FAIL</title>
+    <link rel="stylesheet"  href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Mozilla+Text:wght@200..700&display=swap" rel="stylesheet">
+</head> 
+<body>
+    <h1 id="title">
+        THE GLORIUS QUIZ
+        <div>
+            <label for="start">From</label>
+            <select name="start">
+                <option value="5">n5</option>
+                <option value="4">n4</option>
+                <option value="3">n3</option>
+                <option value="2">n2</option>
+                <option value="1">n1</option>
+            </select>
+            <label for="end">To</label>
+            <select name="end">
+                <option value="5">n5</option>
+                <option value="4">n4</option>
+                <option value="3">n3</option>
+                <option value="2">n2</option>
+                <option value="1">n1</option>
+            </select>
+
+
+        </div>
+    </h1>
+    <div id="main">
+        <h2 id="score">
+            Scores: <b>10</b>
+        </h2>
+        <h2 id="quiz">
+            lore
+        </h2>
+        <form id="input-form">
+            <input type="text" placeholder="kys mf">
+        </form>
+        <div id="btn-container">
+            <button id="skip-btn">SKIP</button>
+            <button id="finalize-btn">FINALIZE</button>
+            <button id="confirm-btn">CONFIRM</button>
+        </div>
+        <div class="d-none" id="answer-reveal">
+            <p>This is answer</p>
+        </div>
+    </div>
+</body>
+<script src="./script.js"></script>
+</html>

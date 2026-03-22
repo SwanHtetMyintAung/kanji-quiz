@@ -1,0 +1,658 @@
+[
+  {
+    "level": "n5",
+    "number": "1",
+    "kanji": "日",
+    "onyomi": "nichi, jitsuニチ, ジツ",
+    "kunyomi": "hi, -bi, -kaひ, -び, -か",
+    "meaning": "day, sun, Japan, counter for days"
+  },
+  {
+    "level": "n5",
+    "number": "2",
+    "kanji": "一",
+    "onyomi": "ichiイチ",
+    "kunyomi": "hito(tsu)ひと(つ)",
+    "meaning": "one"
+  },
+  {
+    "level": "n5",
+    "number": "3",
+    "kanji": "国",
+    "onyomi": "kokuコク",
+    "kunyomi": "kuniくに",
+    "meaning": "country"
+  },
+  {
+    "level": "n5",
+    "number": "4",
+    "kanji": "人",
+    "onyomi": "jin, ninジン、 ニン",
+    "kunyomi": "hitoひと",
+    "meaning": "person"
+  },
+  {
+    "level": "n5",
+    "number": "5",
+    "kanji": "年",
+    "onyomi": "nenネン",
+    "kunyomi": "toshiとし",
+    "meaning": "year, counter for years"
+  },
+  {
+    "level": "n5",
+    "number": "6",
+    "kanji": "大",
+    "onyomi": "dai, taiダイ、 タイ",
+    "kunyomi": "oo(kii)おお(きい)",
+    "meaning": "large, big"
+  },
+  {
+    "level": "n5",
+    "number": "7",
+    "kanji": "十",
+    "onyomi": "juuジュウ",
+    "kunyomi": "tou, toとお、 と",
+    "meaning": "ten, 10"
+  },
+  {
+    "level": "n5",
+    "number": "8",
+    "kanji": "二",
+    "onyomi": "ni, jiニ、 ジ",
+    "kunyomi": "futa(tsu)ふた(つ)",
+    "meaning": "two, 2"
+  },
+  {
+    "level": "n5",
+    "number": "9",
+    "kanji": "本",
+    "onyomi": "honホン",
+    "kunyomi": "motoもと",
+    "meaning": "book, present, true, counter for long cylindrical things"
+  },
+  {
+    "level": "n5",
+    "number": "10",
+    "kanji": "中",
+    "onyomi": "chuuチュウ",
+    "kunyomi": "naka, uchi, ata(ru)なか、 うち、 あた(る)",
+    "meaning": "in, inside, middle, mean, center"
+  },
+  {
+    "level": "n5",
+    "number": "11",
+    "kanji": "長",
+    "onyomi": "chouチョウ",
+    "kunyomi": "naga(i), osaなが(い)、 おさ",
+    "meaning": "long, leader, superior, senior"
+  },
+  {
+    "level": "n5",
+    "number": "12",
+    "kanji": "出",
+    "onyomi": "shutsu, suiシュツ、 スイ",
+    "kunyomi": "de(ru), da(su), i(deru)で(る)、 だ(す)、 い(でる)",
+    "meaning": "exit, leave, go out"
+  },
+  {
+    "level": "n5",
+    "number": "13",
+    "kanji": "三",
+    "onyomi": "sanサン",
+    "kunyomi": "mi(tsu)み(つ)",
+    "meaning": "three, 3"
+  },
+  {
+    "level": "n5",
+    "number": "14",
+    "kanji": "時",
+    "onyomi": "jiジ",
+    "kunyomi": "toki, dokiとき、 -どき",
+    "meaning": "time, hour"
+  },
+  {
+    "level": "n5",
+    "number": "15",
+    "kanji": "行",
+    "onyomi": "kou, gyou, anコウ、 ギョウ、 アン",
+    "kunyomi": "i(ku), yu(ku), okona(u)い(く)、 ゆ(く)、 おこな(う)",
+    "meaning": "going, journey, carry out, line, row"
+  },
+  {
+    "level": "n5",
+    "number": "16",
+    "kanji": "見",
+    "onyomi": "kenケン",
+    "kunyomi": "mi(ru), mi(seru)み(る)、 み(せる)",
+    "meaning": "see, hopes, chances, idea, opinion, look at, visible"
+  },
+  {
+    "level": "n5",
+    "number": "17",
+    "kanji": "月",
+    "onyomi": "getsu, gatsuゲツ、 ガツ",
+    "kunyomi": "tsukiつき",
+    "meaning": "month, moon"
+  },
+  {
+    "level": "n5",
+    "number": "18",
+    "kanji": "分",
+    "onyomi": "bun, fun, buブン、 フン、 ブ",
+    "kunyomi": "wa(keru)わ(ける)",
+    "meaning": "part, minute of time, understand"
+  },
+  {
+    "level": "n5",
+    "number": "19",
+    "kanji": "後",
+    "onyomi": "go, kouゴ、 コウ",
+    "kunyomi": "nochi, ushi(ro), atoのち、 うし(ろ)、 あと",
+    "meaning": "behind, back, later"
+  },
+  {
+    "level": "n5",
+    "number": "20",
+    "kanji": "前",
+    "onyomi": "zenゼン",
+    "kunyomi": "maeまえ",
+    "meaning": "in front, before"
+  },
+  {
+    "level": "n5",
+    "number": "21",
+    "kanji": "生",
+    "onyomi": "sei, shouセイ、 ショウ",
+    "kunyomi": "i(kiru), u(mu), o(u), ha(eru), namaい(きる)、 う(む)、 お(う)、 は(える)、 なま",
+    "meaning": "life, genuine, birth"
+  },
+  {
+    "level": "n5",
+    "number": "22",
+    "kanji": "五",
+    "onyomi": "goゴ",
+    "kunyomi": "itsu(tsu)いつ(つ)",
+    "meaning": "five, 5"
+  },
+  {
+    "level": "n5",
+    "number": "23",
+    "kanji": "間",
+    "onyomi": "kan, kenカン、 ケン",
+    "kunyomi": "aida, ma, aiあいだ、 ま、 あい",
+    "meaning": "interval, space"
+  },
+  {
+    "level": "n5",
+    "number": "24",
+    "kanji": "上",
+    "onyomi": "jou, shou, shanジョウ、 ショウ、 シャン",
+    "kunyomi": "ue, uwa, kami, a(geru), nobo(ru), tatematsu(ru)うえ、 うわ-、 かみ、 あ(げる)、 のぼ(る)、 たてまつ(る)",
+    "meaning": "above, up"
+  },
+  {
+    "level": "n5",
+    "number": "25",
+    "kanji": "東",
+    "onyomi": "touトウ",
+    "kunyomi": "higashiひがし",
+    "meaning": "east"
+  },
+  {
+    "level": "n5",
+    "number": "26",
+    "kanji": "四",
+    "onyomi": "shiシ",
+    "kunyomi": "yo(tsu), yonよ(つ)、 よん",
+    "meaning": "four, 4"
+  },
+  {
+    "level": "n5",
+    "number": "27",
+    "kanji": "今",
+    "onyomi": "kon, kinコン、 キン",
+    "kunyomi": "imaいま",
+    "meaning": "now; the present"
+  },
+  {
+    "level": "n5",
+    "number": "28",
+    "kanji": "金",
+    "onyomi": "kin, kon, gonキン、 コン、 ゴン",
+    "kunyomi": "kane, kana, ganeかね、 かな-、 -がね",
+    "meaning": "gold"
+  },
+  {
+    "level": "n5",
+    "number": "29",
+    "kanji": "九",
+    "onyomi": "kyuu, kuキュウ、 ク",
+    "kunyomi": "kokono(tsu)ここの(つ)",
+    "meaning": "nine, 9"
+  },
+  {
+    "level": "n5",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n5",
+    "number": "30",
+    "kanji": "入",
+    "onyomi": "nyuuニュウ",
+    "kunyomi": "i(ru), hai(ru)い(る)、はい(る)",
+    "meaning": "enter, insert"
+  },
+  {
+    "level": "n5",
+    "number": "31",
+    "kanji": "学",
+    "onyomi": "gakuガク",
+    "kunyomi": "mana(bu)まな(ぶ)",
+    "meaning": "study, learning, science"
+  },
+  {
+    "level": "n5",
+    "number": "32",
+    "kanji": "高",
+    "onyomi": "kouコウ",
+    "kunyomi": "taka(i)たか(い)",
+    "meaning": "tall, high, expensive"
+  },
+  {
+    "level": "n5",
+    "number": "33",
+    "kanji": "円",
+    "onyomi": "enエン",
+    "kunyomi": "maru(i)まる(い)",
+    "meaning": "circle, yen, round"
+  },
+  {
+    "level": "n5",
+    "number": "34",
+    "kanji": "子",
+    "onyomi": "shi, su, tsuシ、 ス、 ツ",
+    "kunyomi": "ko, neこ、 ね",
+    "meaning": "child"
+  },
+  {
+    "level": "n5",
+    "number": "35",
+    "kanji": "外",
+    "onyomi": "gai, geガイ、 ゲ",
+    "kunyomi": "soto, hoka, hazu-, to-そと、 ほか、 はず(す)、 と-",
+    "meaning": "outside"
+  },
+  {
+    "level": "n5",
+    "number": "36",
+    "kanji": "八",
+    "onyomi": "hachiハチ",
+    "kunyomi": "ya(tsu), youや(つ)、 よう",
+    "meaning": "eight, 8"
+  },
+  {
+    "level": "n5",
+    "number": "37",
+    "kanji": "六",
+    "onyomi": "rokuロク",
+    "kunyomi": "mu(tsu), muiむ(つ)、 むい",
+    "meaning": "six, 6"
+  },
+  {
+    "level": "n5",
+    "number": "38",
+    "kanji": "下",
+    "onyomi": "ka, geカ、 ゲ",
+    "kunyomi": "shita, shimo, moto, sa(geru), kuda(ru), o(rosu)した、 しも、 もと、 さ(げる)、 くだ(る)、 お(ろす)",
+    "meaning": "below, down, descend, give, low, inferior"
+  },
+  {
+    "level": "n5",
+    "number": "39",
+    "kanji": "来",
+    "onyomi": "rai, taiライ、 タイ",
+    "kunyomi": "kuru, kitaru, ki, koく.る、 きた.る、 き、 こ",
+    "meaning": "come, due, next, cause, become"
+  },
+  {
+    "level": "n5",
+    "number": "40",
+    "kanji": "気",
+    "onyomi": "ki, keキ、 ケ",
+    "kunyomi": "ikiいき",
+    "meaning": "spirit, mind, air, atmosphere, mood"
+  },
+  {
+    "level": "n5",
+    "number": "41",
+    "kanji": "小",
+    "onyomi": "shouショウ",
+    "kunyomi": "chii(sai), ko-, o-, sa-ちい(さい)、 こ-、 お-、 さ-",
+    "meaning": "little, small"
+  },
+  {
+    "level": "n5",
+    "number": "42",
+    "kanji": "七",
+    "onyomi": "shichiシチ",
+    "kunyomi": "nana(tsu), nanoなな(つ)、 なの",
+    "meaning": "seven, 7"
+  },
+  {
+    "level": "n5",
+    "number": "43",
+    "kanji": "山",
+    "onyomi": "san, senサン、 セン",
+    "kunyomi": "yamaやま",
+    "meaning": "mountain"
+  },
+  {
+    "level": "n5",
+    "number": "44",
+    "kanji": "話",
+    "onyomi": "waワ",
+    "kunyomi": "hana(su), hanashiはな(す)、 はなし",
+    "meaning": "tale, talk"
+  },
+  {
+    "level": "n5",
+    "number": "45",
+    "kanji": "女",
+    "onyomi": "joジョ",
+    "kunyomi": "onnna, meおんな、 め",
+    "meaning": "woman, female"
+  },
+  {
+    "level": "n5",
+    "number": "46",
+    "kanji": "北",
+    "onyomi": "hokuホク",
+    "kunyomi": "kitaきた",
+    "meaning": "north"
+  },
+  {
+    "level": "n5",
+    "number": "47",
+    "kanji": "午",
+    "onyomi": "goゴ",
+    "kunyomi": "umaうま",
+    "meaning": "noon, sign of the horse"
+  },
+  {
+    "level": "n5",
+    "number": "48",
+    "kanji": "百",
+    "onyomi": "hyaku, byakuヒャク、 ビャク",
+    "kunyomi": "momoもも",
+    "meaning": "hundred"
+  },
+  {
+    "level": "n5",
+    "number": "49",
+    "kanji": "書",
+    "onyomi": "shoショ",
+    "kunyomi": "kakuか(く)",
+    "meaning": "write"
+  },
+  {
+    "level": "n5",
+    "number": "50",
+    "kanji": "先",
+    "onyomi": "senセン",
+    "kunyomi": "saki, ma(zu)さき、 ま(ず)",
+    "meaning": "before, ahead, previous, future, precedence"
+  },
+  {
+    "level": "n5",
+    "number": "51",
+    "kanji": "名",
+    "onyomi": "mei, myouメイ、 ミョウ",
+    "kunyomi": "naな",
+    "meaning": "name, noted, distinguished, reputation"
+  },
+  {
+    "level": "n5",
+    "number": "52",
+    "kanji": "川",
+    "onyomi": "senセン",
+    "kunyomi": "kawaかわ",
+    "meaning": "river, stream"
+  },
+  {
+    "level": "n5",
+    "number": "53",
+    "kanji": "千",
+    "onyomi": "senセン",
+    "kunyomi": "chiち",
+    "meaning": "thousand"
+  },
+  {
+    "level": "n5",
+    "number": "54",
+    "kanji": "水",
+    "onyomi": "suiスイ",
+    "kunyomi": "mizuみず",
+    "meaning": "water"
+  },
+  {
+    "level": "n5",
+    "number": "55",
+    "kanji": "半",
+    "onyomi": "hanハン",
+    "kunyomi": "naka(ba)なか(ば)",
+    "meaning": "half, middle, odd number, semi-"
+  },
+  {
+    "level": "n5",
+    "number": "56",
+    "kanji": "男",
+    "onyomi": "dan, nanダン、 ナン",
+    "kunyomi": "otoko, oおとこ、 お",
+    "meaning": "male; man"
+  },
+  {
+    "level": "n5",
+    "number": "57",
+    "kanji": "西",
+    "onyomi": "sei, saiセイ、 サイ",
+    "kunyomi": "nishiにし",
+    "meaning": "west"
+  },
+  {
+    "level": "n5",
+    "number": "58",
+    "kanji": "電",
+    "onyomi": "denデン",
+    "kunyomi": "",
+    "meaning": "electricity; electric powered"
+  },
+  {
+    "level": "n5",
+    "number": "59",
+    "kanji": "校",
+    "onyomi": "kouコウ",
+    "kunyomi": "",
+    "meaning": "school, exam"
+  },
+  {
+    "level": "n5",
+    "number": "",
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "level": "n5",
+    "number": "60",
+    "kanji": "語",
+    "onyomi": "goゴ",
+    "kunyomi": "kata(ru)かた(る)",
+    "meaning": "word, speech, language"
+  },
+  {
+    "level": "n5",
+    "number": "61",
+    "kanji": "土",
+    "onyomi": "do, toド、 ト",
+    "kunyomi": "tsuchiつち",
+    "meaning": "soil, earth, ground"
+  },
+  {
+    "level": "n5",
+    "number": "62",
+    "kanji": "木",
+    "onyomi": "boku, mokuボク、 モク",
+    "kunyomi": "ki, koき、 こ-",
+    "meaning": "tree, wood"
+  },
+  {
+    "level": "n5",
+    "number": "63",
+    "kanji": "聞",
+    "onyomi": "bun, monブン、 モン",
+    "kunyomi": "ki(ku)き(く)",
+    "meaning": "to hear; to listen; to ask"
+  },
+  {
+    "level": "n5",
+    "number": "64",
+    "kanji": "食",
+    "onyomi": "shoku, jikiショク、 ジキ",
+    "kunyomi": "k(u), ta(beru), ha(mu)く(う)、 た(べる)、 は(む)",
+    "meaning": "eat, food"
+  },
+  {
+    "level": "n5",
+    "number": "65",
+    "kanji": "車",
+    "onyomi": "shaシャ",
+    "kunyomi": "kurumaくるま",
+    "meaning": "car, wheel"
+  },
+  {
+    "level": "n5",
+    "number": "66",
+    "kanji": "何",
+    "onyomi": "kaカ",
+    "kunyomi": "nani, nanなに、 なん",
+    "meaning": "what"
+  },
+  {
+    "level": "n5",
+    "number": "67",
+    "kanji": "南",
+    "onyomi": "nan, naナン、 ナ",
+    "kunyomi": "minamiみなみ",
+    "meaning": "south"
+  },
+  {
+    "level": "n5",
+    "number": "68",
+    "kanji": "万",
+    "onyomi": "man, banマン、 バン",
+    "kunyomi": "",
+    "meaning": "ten thousand, 10,000"
+  },
+  {
+    "level": "n5",
+    "number": "69",
+    "kanji": "毎",
+    "onyomi": "maiマイ",
+    "kunyomi": "goto(ni)ごと(に)",
+    "meaning": "every"
+  },
+  {
+    "level": "n5",
+    "number": "70",
+    "kanji": "白",
+    "onyomi": "haku, byakuハク、 ビャク",
+    "kunyomi": "shiro(i)しろ(い)",
+    "meaning": "white"
+  },
+  {
+    "level": "n5",
+    "number": "71",
+    "kanji": "天",
+    "onyomi": "tenテン",
+    "kunyomi": "amatsuあまつ",
+    "meaning": "heavens, sky, imperial"
+  },
+  {
+    "level": "n5",
+    "number": "72",
+    "kanji": "母",
+    "onyomi": "boボ",
+    "kunyomi": "haha, kaaはは、 かあ",
+    "meaning": "mother"
+  },
+  {
+    "level": "n5",
+    "number": "73",
+    "kanji": "火",
+    "onyomi": "kaカ",
+    "kunyomi": "hi, bi, hoひ、 -び、 ほ-",
+    "meaning": "fire"
+  },
+  {
+    "level": "n5",
+    "number": "74",
+    "kanji": "右",
+    "onyomi": "u, yuuウ、 ユウ",
+    "kunyomi": "migiみぎ",
+    "meaning": "right (direction)"
+  },
+  {
+    "level": "n5",
+    "number": "75",
+    "kanji": "読",
+    "onyomi": "doku, toku, touドク、 トク、 トウ",
+    "kunyomi": "yo(mu)よ(む)",
+    "meaning": "to read"
+  },
+  {
+    "level": "n5",
+    "number": "76",
+    "kanji": "友",
+    "onyomi": "yuuユウ",
+    "kunyomi": "tomoとも",
+    "meaning": "friend"
+  },
+  {
+    "level": "n5",
+    "number": "77",
+    "kanji": "左",
+    "onyomi": "sa, shaサ、 シャ",
+    "kunyomi": "hidariひだり",
+    "meaning": "left"
+  },
+  {
+    "level": "n5",
+    "number": "78",
+    "kanji": "休",
+    "onyomi": "kyuuキュウ",
+    "kunyomi": "yasu(mu)やす(む)",
+    "meaning": "rest, day off, retire, sleep"
+  },
+  {
+    "level": "n5",
+    "number": "79",
+    "kanji": "父",
+    "onyomi": "fuフ",
+    "kunyomi": "chichi, touちち、 とう",
+    "meaning": "father"
+  },
+  {
+    "level": "n5",
+    "number": "80",
+    "kanji": "雨",
+    "onyomi": "uウ",
+    "kunyomi": "ame, amaあめ、 あま",
+    "meaning": "rain"
+  }
+]
