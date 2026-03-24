@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000/kanji";
+const BASE_URL = "https://kanji-quiz-backend.onrender.com/kanji";
 const quiz = document.getElementById("quiz");
 const input_form = document.getElementById("input-form")
 const answer_reveal = document.getElementById("answer-reveal");
